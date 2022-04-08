@@ -1,0 +1,7513 @@
+{
+    "inexpensive": {
+        "cheap": 0,
+        "dirty": 0,
+        "narrow": 0,
+        "long": 0
+    },
+    "realize": {
+        "discover": 0,
+        "explore": 0,
+        "originate": 0,
+        "ignore": 0,
+        "begin": 0
+    },
+    "squad": {
+        "army": 0,
+        "navy": 0,
+        "legion": 0
+    },
+    "word": {
+        "phrase": 0,
+        "literature": 0,
+        "dictionary": 0,
+        "page": 0,
+        "clue": 0,
+        "newspaper": 0,
+        "book": 0,
+        "definition": 0
+    },
+    "bus": {
+        "vehicle": 0,
+        "cab": 0,
+        "taxi": 0,
+        "car": 0,
+        "carriage": 0
+    },
+    "person": {
+        "animal": 0,
+        "beast": 0
+    },
+    "drawer": {
+        "clothes": 0,
+        "fabric": 0,
+        "cloth": 0,
+        "coat": 0,
+        "jacket": 0,
+        "closet": 0,
+        "button": 0,
+        "linen": 0
+    },
+    "student": {
+        "pupil": 0,
+        "professor": 0,
+        "president": 0,
+        "doctor": 0,
+        "politician": 0,
+        "mayor": 0
+    },
+    "satisfy": {
+        "please": 0,
+        "comprehend": 0,
+        "entertain": 0,
+        "agree": 0,
+        "plead": 0,
+        "know": 0,
+        "read": 0
+    },
+    "replace": {
+        "restore": 0,
+        "bring": 0,
+        "carry": 0,
+        "send": 0,
+        "come": 0,
+        "complain": 0
+    },
+    "fraud": {
+        "crime": 0,
+        "theft": 0,
+        "violation": 0
+    },
+    "beef": {
+        "cattle": 0,
+        "cow": 0,
+        "sheep": 0,
+        "goat": 0,
+        "lamb": 0
+    },
+    "taxi": {
+        "cab": 0,
+        "car": 0,
+        "bus": 0,
+        "carriage": 0,
+        "bicycle": 0,
+        "highway": 0,
+        "factory": 0,
+        "horn": 0
+    },
+    "soup": {
+        "dinner": 0,
+        "meal": 0,
+        "breakfast": 0,
+        "chicken": 0,
+        "supper": 0,
+        "waist": 0,
+        "bacon": 0
+    },
+    "winner": {
+        "champion": 0,
+        "goal": 0,
+        "candidate": 0,
+        "presence": 0,
+        "quest": 0,
+        "door": 0,
+        "absence": 0
+    },
+    "lose": {
+        "fail": 0,
+        "keep": 0,
+        "get": 0,
+        "discourage": 0,
+        "succeed": 0,
+        "possess": 0,
+        "protect": 0,
+        "cherish": 0,
+        "borrow": 0
+    },
+    "predict": {
+        "determine": 0,
+        "assume": 0,
+        "pretend": 0,
+        "imagine": 0,
+        "portray": 0
+    },
+    "sandwich": {
+        "lunch": 0,
+        "meat": 0,
+        "steak": 0,
+        "bacon": 0,
+        "bread": 0,
+        "chicken": 0
+    },
+    "receive": {
+        "take": 0,
+        "give": 0,
+        "send": 0,
+        "possess": 0,
+        "obtain": 0,
+        "steal": 0,
+        "carry": 0,
+        "deliver": 0,
+        "leave": 0,
+        "lend": 0
+    },
+    "large": {
+        "big": 0,
+        "huge": 0,
+        "flexible": 0,
+        "broad": 0,
+        "heavy": 0,
+        "easy": 0,
+        "tiny": 0,
+        "dumb": 0,
+        "elastic": 0
+    },
+    "hymn": {
+        "bible": 0,
+        "conquest": 0,
+        "straw": 0,
+        "book": 0,
+        "battle": 0,
+        "journey": 0,
+        "task": 0,
+        "wife": 0
+    },
+    "driver": {
+        "pilot": 0
+    },
+    "neck": {
+        "spine": 0,
+        "bone": 0,
+        "arm": 0,
+        "body": 0,
+        "jaw": 0,
+        "knee": 0,
+        "teeth": 0,
+        "ankle": 0,
+        "elbow": 0
+    },
+    "august": {
+        "month": 0
+    },
+    "angle": {
+        "curve": 0
+    },
+    "become": {
+        "make": 0,
+        "appear": 0,
+        "accomplish": 0,
+        "seem": 0,
+        "organize": 0,
+        "create": 0,
+        "construct": 0,
+        "earn": 0,
+        "destroy": 0,
+        "attend": 0
+    },
+    "wheat": {
+        "cereal": 0
+    },
+    "aisle": {
+        "hallway": 0,
+        "hall": 0,
+        "corridor": 0,
+        "classroom": 0,
+        "door": 0
+    },
+    "uncle": {
+        "aunt": 0,
+        "cousin": 0,
+        "man": 0,
+        "nephew": 0,
+        "husband": 0,
+        "father": 0,
+        "warrior": 0,
+        "child": 0
+    },
+    "plane": {
+        "jet": 0,
+        "airport": 0
+    },
+    "absorb": {
+        "learn": 0,
+        "possess": 0,
+        "withdraw": 0,
+        "evaluate": 0,
+        "listen": 0,
+        "forget": 0,
+        "keep": 0,
+        "take": 0,
+        "reject": 0
+    },
+    "adversary": {
+        "opponent": 0
+    },
+    "music": {
+        "melody": 0,
+        "rhythm": 0,
+        "arithmetic": 0,
+        "logic": 0
+    },
+    "rabbit": {
+        "cat": 0,
+        "lion": 0,
+        "pet": 0,
+        "dog": 0,
+        "mouse": 0,
+        "horse": 0
+    },
+    "add": {
+        "join": 0,
+        "build": 0,
+        "multiply": 0,
+        "divide": 0,
+        "attach": 0,
+        "participate": 0,
+        "marry": 0,
+        "cooperate": 0,
+        "acquire": 0,
+        "create": 0
+    },
+    "jacket": {
+        "sweater": 0,
+        "clothes": 0,
+        "fabric": 0,
+        "cloth": 0,
+        "coat": 0,
+        "closet": 0,
+        "drawer": 0,
+        "button": 0
+    },
+    "bush": {
+        "flower": 0,
+        "violet": 0,
+        "bulb": 0,
+        "belief": 0,
+        "endurance": 0,
+        "opinion": 0,
+        "value": 0
+    },
+    "weather": {
+        "snow": 0,
+        "cloud": 0,
+        "storm": 0,
+        "haze": 0,
+        "mist": 0,
+        "fog": 0
+    },
+    "justify": {
+        "argue": 0,
+        "verify": 0,
+        "persuade": 0,
+        "differ": 0,
+        "prove": 0,
+        "complain": 0,
+        "rationalize": 0,
+        "agree": 0,
+        "say": 0
+    },
+    "key": {
+        "house": 0,
+        "apartment": 0,
+        "barn": 0,
+        "carpet": 0,
+        "hotel": 0,
+        "furniture": 0
+    },
+    "fever": {
+        "illness": 0,
+        "flu": 0,
+        "infection": 0,
+        "disease": 0
+    },
+    "mob": {
+        "crowd": 0,
+        "bunch": 0,
+        "parade": 0,
+        "band": 0
+    },
+    "journey": {
+        "trip": 0,
+        "conquest": 0,
+        "battle": 0,
+        "hymn": 0
+    },
+    "pearl": {
+        "money": 0,
+        "salary": 0,
+        "capital": 0,
+        "diamond": 0,
+        "fee": 0
+    },
+    "motor": {
+        "engine": 0,
+        "boat": 0,
+        "machine": 0,
+        "deck": 0,
+        "car": 0,
+        "anchor": 0
+    },
+    "bed": {
+        "crib": 0,
+        "furniture": 0,
+        "chair": 0,
+        "couch": 0,
+        "bedroom": 0,
+        "blanket": 0,
+        "room": 0,
+        "hospital": 0,
+        "cradle": 0
+    },
+    "win": {
+        "succeed": 0,
+        "accomplish": 0,
+        "dominate": 0,
+        "achieve": 0,
+        "try": 0,
+        "fail": 0,
+        "become": 0,
+        "overcome": 0
+    },
+    "fraternity": {
+        "men": 0,
+        "baseball": 0,
+        "door": 0,
+        "basketball": 0,
+        "couch": 0,
+        "doorway": 0,
+        "gate": 0,
+        "corridor": 0,
+        "window": 0
+    },
+    "dumb": {
+        "stupid": 0,
+        "dense": 0,
+        "foolish": 0,
+        "clever": 0,
+        "intelligent": 0,
+        "smart": 0,
+        "rare": 0,
+        "huge": 0,
+        "hard": 0
+    },
+    "age": {
+        "beauty": 0
+    },
+    "avoid": {
+        "ignore": 0,
+        "reject": 0,
+        "leave": 0,
+        "forget": 0,
+        "ask": 0,
+        "explore": 0,
+        "withdraw": 0,
+        "accept": 0
+    },
+    "employer": {
+        "worker": 0,
+        "employee": 0,
+        "mechanic": 0,
+        "camera": 0,
+        "lens": 0
+    },
+    "inn": {
+        "motel": 0
+    },
+    "shame": {
+        "sorrow": 0
+    },
+    "beast": {
+        "animal": 0,
+        "person": 0
+    },
+    "sly": {
+        "clever": 0,
+        "strange": 0,
+        "tough": 0,
+        "dumb": 0,
+        "bizarre": 0,
+        "odd": 0,
+        "weird": 0
+    },
+    "proof": {
+        "fact": 0,
+        "insight": 0,
+        "intelligence": 0,
+        "wisdom": 0,
+        "logic": 0
+    },
+    "oak": {
+        "maple": 0,
+        "tree": 0
+    },
+    "cannon": {
+        "gun": 0,
+        "ball": 0,
+        "knife": 0,
+        "dawn": 0,
+        "people": 0,
+        "trick": 0,
+        "fur": 0,
+        "costume": 0,
+        "glove": 0
+    },
+    "sailor": {
+        "captain": 0
+    },
+    "secretary": {
+        "woman": 0,
+        "wife": 0,
+        "man": 0,
+        "task": 0,
+        "fur": 0,
+        "mother": 0,
+        "husband": 0,
+        "hole": 0,
+        "cent": 0
+    },
+    "bedroom": {
+        "bed": 0,
+        "bathroom": 0,
+        "stomach": 0,
+        "bicycle": 0,
+        "crib": 0,
+        "furniture": 0,
+        "chair": 0,
+        "couch": 0,
+        "blanket": 0,
+        "room": 0
+    },
+    "air": {
+        "helium": 0,
+        "molecule": 0,
+        "atom": 0,
+        "carbon": 0
+    },
+    "tongue": {
+        "muscle": 0,
+        "cheek": 0,
+        "throat": 0,
+        "arm": 0,
+        "bone": 0,
+        "nose": 0
+    },
+    "law": {
+        "school": 0,
+        "grade": 0
+    },
+    "college": {
+        "class": 0,
+        "profession": 0
+    },
+    "differ": {
+        "argue": 0,
+        "agree": 0,
+        "persuade": 0,
+        "justify": 0,
+        "prove": 0,
+        "complain": 0,
+        "rationalize": 0,
+        "please": 0
+    },
+    "delightful": {
+        "wonderful": 0,
+        "cheerful": 0,
+        "terrific": 0,
+        "great": 0,
+        "beautiful": 0,
+        "happy": 0
+    },
+    "pipe": {
+        "cigar": 0,
+        "box": 0,
+        "booth": 0,
+        "elevator": 0,
+        "hat": 0
+    },
+    "worker": {
+        "employer": 0,
+        "mechanic": 0,
+        "camera": 0,
+        "employee": 0,
+        "lens": 0,
+        "president": 0
+    },
+    "beer": {
+        "alcohol": 0,
+        "beverage": 0,
+        "champagne": 0,
+        "gin": 0,
+        "wine": 0,
+        "whiskey": 0,
+        "brandy": 0,
+        "cocktail": 0
+    },
+    "strong": {
+        "proud": 0,
+        "bold": 0
+    },
+    "construction": {
+        "destruction": 0
+    },
+    "vanish": {
+        "disappear": 0,
+        "shrink": 0,
+        "find": 0,
+        "reduce": 0,
+        "grow": 0,
+        "locate": 0,
+        "acquire": 0
+    },
+    "bowl": {
+        "plate": 0,
+        "alley": 0,
+        "tail": 0,
+        "street": 0,
+        "chapter": 0,
+        "cliff": 0
+    },
+    "reality": {
+        "illusion": 0,
+        "fantasy": 0
+    },
+    "great": {
+        "wonderful": 0,
+        "awful": 0,
+        "bad": 0,
+        "delightful": 0,
+        "terrific": 0,
+        "beautiful": 0,
+        "terrible": 0
+    },
+    "carry": {
+        "bring": 0,
+        "take": 0,
+        "deliver": 0,
+        "send": 0,
+        "restore": 0,
+        "come": 0,
+        "complain": 0,
+        "possess": 0,
+        "obtain": 0,
+        "steal": 0
+    },
+    "happy": {
+        "cheerful": 0,
+        "glad": 0,
+        "young": 0,
+        "angry": 0,
+        "mad": 0,
+        "delightful": 0,
+        "restless": 0
+    },
+    "clarify": {
+        "explain": 0,
+        "discuss": 0,
+        "prove": 0,
+        "argue": 0
+    },
+    "box": {
+        "booth": 0,
+        "elevator": 0,
+        "hat": 0,
+        "cigar": 0,
+        "telephone": 0,
+        "car": 0,
+        "coat": 0,
+        "pipe": 0
+    },
+    "hallway": {
+        "corridor": 0,
+        "aisle": 0,
+        "classroom": 0,
+        "door": 0,
+        "hall": 0
+    },
+    "wonderful": {
+        "delightful": 0,
+        "terrific": 0,
+        "great": 0,
+        "beautiful": 0,
+        "cheerful": 0,
+        "bad": 0,
+        "mad": 0,
+        "awful": 0
+    },
+    "melody": {
+        "music": 0,
+        "rhythm": 0,
+        "arithmetic": 0,
+        "logic": 0
+    },
+    "believe": {
+        "accept": 0,
+        "know": 0,
+        "acknowledge": 0,
+        "forgive": 0,
+        "recommend": 0,
+        "deny": 0,
+        "deliver": 0,
+        "reject": 0,
+        "comprehend": 0,
+        "understand": 0
+    },
+    "bull": {
+        "calf": 0
+    },
+    "unnecessary": {
+        "necessary": 0,
+        "essential": 0,
+        "important": 0,
+        "crucial": 0
+    },
+    "spend": {
+        "save": 0,
+        "collect": 0,
+        "protect": 0,
+        "defend": 0,
+        "keep": 0
+    },
+    "apparent": {
+        "obvious": 0,
+        "noticeable": 0
+    },
+    "wire": {
+        "cord": 0
+    },
+    "beauty": {
+        "age": 0
+    },
+    "basketball": {
+        "baseball": 0,
+        "fraternity": 0,
+        "couch": 0,
+        "men": 0,
+        "door": 0,
+        "bed": 0
+    },
+    "football": {
+        "fun": 0,
+        "game": 0,
+        "action": 0,
+        "trick": 0,
+        "course": 0
+    },
+    "sure": {
+        "certain": 0,
+        "confident": 0
+    },
+    "iron": {
+        "vitamin": 0
+    },
+    "woman": {
+        "wife": 0,
+        "man": 0,
+        "secretary": 0,
+        "task": 0,
+        "fur": 0,
+        "mother": 0,
+        "husband": 0,
+        "hole": 0,
+        "cent": 0,
+        "bath": 0
+    },
+    "band": {
+        "orchestra": 0,
+        "parade": 0,
+        "liquor": 0,
+        "endurance": 0,
+        "crowd": 0,
+        "wine": 0,
+        "century": 0,
+        "strength": 0
+    },
+    "coal": {
+        "charcoal": 0
+    },
+    "obtain": {
+        "acquire": 0,
+        "take": 0,
+        "get": 0,
+        "find": 0,
+        "join": 0,
+        "possess": 0,
+        "steal": 0,
+        "carry": 0,
+        "receive": 0
+    },
+    "bulb": {
+        "flower": 0,
+        "violet": 0,
+        "bush": 0,
+        "belief": 0,
+        "endurance": 0,
+        "opinion": 0,
+        "value": 0
+    },
+    "sun": {
+        "sky": 0,
+        "universe": 0
+    },
+    "surgery": {
+        "heart": 0
+    },
+    "door": {
+        "doorway": 0,
+        "gate": 0,
+        "corridor": 0,
+        "window": 0,
+        "bell": 0,
+        "cellar": 0,
+        "floor": 0,
+        "kitchen": 0,
+        "fraternity": 0,
+        "presence": 4,
+        "exit": 0
+    },
+    "choose": {
+        "decide": 0,
+        "elect": 0,
+        "want": 0,
+        "conclude": 0,
+        "think": 0,
+        "portray": 0,
+        "appoint": 0,
+        "borrow": 0
+    },
+    "month": {
+        "august": 0
+    },
+    "cage": {
+        "bar": 0,
+        "jail": 0,
+        "choice": 0,
+        "opinion": 0
+    },
+    "dull": {
+        "dreary": 0,
+        "sharp": 0,
+        "funny": 0,
+        "sad": 0
+    },
+    "liver": {
+        "organ": 0,
+        "lung": 0,
+        "kidney": 0
+    },
+    "baseball": {
+        "basketball": 0,
+        "fraternity": 0,
+        "couch": 0,
+        "men": 0,
+        "door": 0,
+        "bed": 0
+    },
+    "rail": {
+        "fence": 0
+    },
+    "prince": {
+        "king": 0,
+        "princess": 0,
+        "bride": 0,
+        "island": 0
+    },
+    "engine": {
+        "motor": 0,
+        "machine": 0,
+        "boat": 0,
+        "deck": 0,
+        "car": 0,
+        "anchor": 0
+    },
+    "portray": {
+        "pretend": 0,
+        "imitate": 0,
+        "decide": 0,
+        "notify": 0,
+        "imagine": 0,
+        "seem": 0,
+        "assume": 0,
+        "choose": 0,
+        "conclude": 0
+    },
+    "mud": {
+        "dirt": 0
+    },
+    "steeple": {
+        "chapel": 0
+    },
+    "mare": {
+        "horse": 0,
+        "colt": 0,
+        "ox": 0,
+        "dog": 0,
+        "cat": 0
+    },
+    "way": {
+        "manner": 0
+    },
+    "beautiful": {
+        "wonderful": 0,
+        "delightful": 0,
+        "terrific": 0,
+        "great": 0,
+        "cheerful": 0,
+        "bad": 0,
+        "mad": 0
+    },
+    "wealth": {
+        "prestige": 0,
+        "fame": 0,
+        "poverty": 0
+    },
+    "flour": {
+        "bread": 0,
+        "cheese": 0,
+        "meat": 0,
+        "steak": 0,
+        "bacon": 0,
+        "sandwich": 0
+    },
+    "yard": {
+        "meter": 0,
+        "inch": 0
+    },
+    "drizzle": {
+        "rain": 0,
+        "mist": 0,
+        "cloud": 0,
+        "haze": 0,
+        "fog": 0
+    },
+    "supper": {
+        "meal": 0,
+        "breakfast": 0,
+        "dinner": 0,
+        "waist": 0,
+        "bacon": 0
+    },
+    "gossip": {
+        "news": 0,
+        "medium": 0
+    },
+    "assume": {
+        "predict": 0,
+        "pretend": 0,
+        "determine": 0,
+        "imagine": 0,
+        "portray": 0,
+        "seem": 0
+    },
+    "corridor": {
+        "hallway": 0,
+        "door": 0,
+        "aisle": 0,
+        "classroom": 0,
+        "doorway": 0,
+        "gate": 0,
+        "window": 0,
+        "bell": 0,
+        "cellar": 0
+    },
+    "helper": {
+        "maid": 0,
+        "teacher": 0,
+        "girl": 0,
+        "instructor": 0,
+        "rabbi": 0,
+        "friend": 0,
+        "child": 0
+    },
+    "diet": {
+        "salad": 0,
+        "apple": 0,
+        "vinegar": 0,
+        "lemon": 0,
+        "juice": 0,
+        "candy": 0,
+        "sauce": 0,
+        "sunshine": 0
+    },
+    "lung": {
+        "liver": 0,
+        "organ": 0,
+        "kidney": 0
+    },
+    "science": {
+        "psychology": 0
+    },
+    "illegal": {
+        "immoral": 0,
+        "bad": 0,
+        "awful": 0,
+        "terrible": 0,
+        "guilty": 0,
+        "terrific": 0,
+        "great": 0
+    },
+    "overcome": {
+        "dominate": 0,
+        "win": 0,
+        "succeed": 0,
+        "accomplish": 0,
+        "achieve": 0
+    },
+    "cup": {
+        "jar": 0,
+        "cone": 0,
+        "spoon": 0,
+        "bottle": 0,
+        "container": 0
+    },
+    "dollar": {
+        "people": 0,
+        "population": 0,
+        "party": 0,
+        "gun": 0,
+        "cent": 0,
+        "balloon": 0,
+        "cannon": 0,
+        "knife": 0
+    },
+    "emotion": {
+        "mood": 0,
+        "passion": 0,
+        "anger": 0,
+        "fury": 0,
+        "frustration": 0
+    },
+    "ballad": {
+        "song": 0,
+        "story": 0,
+        "book": 0,
+        "topic": 0,
+        "literature": 0,
+        "text": 0
+    },
+    "vessel": {
+        "vein": 0,
+        "arm": 0,
+        "stomach": 0,
+        "choice": 0,
+        "shoulder": 0,
+        "body": 0,
+        "bone": 0,
+        "muscle": 0
+    },
+    "allow": {
+        "give": 0,
+        "go": 0,
+        "lend": 0,
+        "put": 0,
+        "borrow": 0,
+        "receive": 0,
+        "deny": 0,
+        "keep": 0,
+        "know": 0,
+        "steal": 0
+    },
+    "nerve": {
+        "gut": 0,
+        "brain": 0,
+        "body": 0,
+        "spine": 0,
+        "chest": 0,
+        "arm": 0,
+        "stomach": 0,
+        "shoulder": 0
+    },
+    "devil": {
+        "god": 0,
+        "spirit": 0,
+        "priest": 0,
+        "father": 0,
+        "prey": 0,
+        "monk": 0,
+        "parent": 0,
+        "man": 0
+    },
+    "fame": {
+        "wealth": 0,
+        "prestige": 0,
+        "poverty": 0
+    },
+    "grow": {
+        "expand": 0,
+        "shrink": 0,
+        "reduce": 0,
+        "disappear": 0,
+        "vanish": 0
+    },
+    "cancer": {
+        "sickness": 0
+    },
+    "paper": {
+        "cardboard": 0,
+        "wood": 0,
+        "log": 0,
+        "timber": 0,
+        "formula": 0,
+        "bath": 0
+    },
+    "teacher": {
+        "instructor": 0,
+        "rabbi": 0,
+        "helper": 0,
+        "friend": 0,
+        "minister": 0,
+        "maid": 0,
+        "buddy": 0,
+        "guest": 0
+    },
+    "bridge": {
+        "card": 0,
+        "car": 0,
+        "cab": 0,
+        "carriage": 0,
+        "bicycle": 0,
+        "highway": 0,
+        "factory": 0,
+        "horn": 0,
+        "street": 0,
+        "boat": 0
+    },
+    "arithmetic": {
+        "logic": 0,
+        "rhythm": 0,
+        "intelligence": 0,
+        "melody": 0,
+        "wisdom": 0,
+        "insight": 0,
+        "skill": 0,
+        "ignorance": 0
+    },
+    "pact": {
+        "agreement": 0,
+        "condition": 0,
+        "argument": 0,
+        "hole": 0,
+        "situation": 0,
+        "boy": 0,
+        "discussion": 0
+    },
+    "trick": {
+        "game": 0,
+        "bath": 0,
+        "size": 0,
+        "gun": 0,
+        "action": 0,
+        "fun": 0,
+        "room": 0,
+        "wife": 0,
+        "balloon": 0
+    },
+    "remain": {
+        "retain": 0,
+        "leave": 0,
+        "get": 0,
+        "forget": 0,
+        "go": 0,
+        "ignore": 0,
+        "wander": 0,
+        "take": 0,
+        "arrive": 0
+    },
+    "bad": {
+        "awful": 0,
+        "terrible": 0,
+        "immoral": 0,
+        "guilty": 0,
+        "terrific": 0,
+        "great": 0,
+        "sad": 0
+    },
+    "analyze": {
+        "compare": 0,
+        "evaluate": 0,
+        "learn": 0,
+        "absorb": 0
+    },
+    "salt": {
+        "water": 0,
+        "ice": 0
+    },
+    "hawk": {
+        "bird": 0,
+        "hen": 0,
+        "turkey": 0
+    },
+    "deck": {
+        "floor": 0,
+        "boat": 0,
+        "mouse": 0,
+        "roof": 0,
+        "ceiling": 0,
+        "door": 0,
+        "motor": 0,
+        "car": 0,
+        "anchor": 0
+    },
+    "recommend": {
+        "advise": 0,
+        "accept": 0,
+        "acknowledge": 0,
+        "believe": 0,
+        "forgive": 0,
+        "deny": 0,
+        "deliver": 0,
+        "reject": 0
+    },
+    "cloud": {
+        "haze": 0,
+        "mist": 0,
+        "fog": 0,
+        "storm": 0,
+        "weather": 0,
+        "rain": 0,
+        "hurricane": 0
+    },
+    "require": {
+        "inquire": 0,
+        "arrange": 0,
+        "think": 0,
+        "organize": 0,
+        "contemplate": 0,
+        "rationalize": 0,
+        "decide": 0,
+        "try": 0
+    },
+    "president": {
+        "politician": 0,
+        "mayor": 0,
+        "pupil": 0,
+        "pollution": 0,
+        "camera": 0,
+        "chief": 0,
+        "student": 0,
+        "atmosphere": 0
+    },
+    "know": {
+        "comprehend": 0,
+        "understand": 0,
+        "believe": 0,
+        "forget": 0,
+        "give": 0,
+        "read": 0,
+        "satisfy": 0,
+        "forgive": 0,
+        "listen": 0
+    },
+    "behave": {
+        "obey": 0,
+        "listen": 0,
+        "hear": 0,
+        "understand": 0,
+        "learn": 0
+    },
+    "conversation": {
+        "communication": 0,
+        "language": 0,
+        "television": 0
+    },
+    "pretend": {
+        "imagine": 0,
+        "portray": 0,
+        "seem": 0,
+        "assume": 0,
+        "create": 0,
+        "imitate": 0,
+        "decide": 0,
+        "notify": 0
+    },
+    "wisdom": {
+        "intelligence": 0,
+        "logic": 0,
+        "insight": 0,
+        "skill": 0,
+        "ignorance": 0,
+        "arithmetic": 0,
+        "fact": 0
+    },
+    "keep": {
+        "possess": 0,
+        "protect": 0,
+        "cherish": 0,
+        "borrow": 0,
+        "lose": 0,
+        "give": 0,
+        "take": 0,
+        "absorb": 0,
+        "defend": 0,
+        "save": 0
+    },
+    "trial": {
+        "verdict": 0
+    },
+    "lady": {
+        "gentleman": 0
+    },
+    "job": {
+        "task": 0,
+        "management": 0,
+        "assignment": 0,
+        "woman": 0,
+        "straw": 0,
+        "highway": 0,
+        "island": 0,
+        "administration": 0,
+        "mouse": 0
+    },
+    "heroine": {
+        "hero": 0
+    },
+    "aluminum": {
+        "metal": 0,
+        "tin": 0
+    },
+    "reader": {
+        "author": 0,
+        "creator": 0,
+        "maker": 0
+    },
+    "scientist": {
+        "nurse": 0
+    },
+    "steak": {
+        "meat": 0,
+        "chicken": 0,
+        "bacon": 0,
+        "sandwich": 0,
+        "bread": 0,
+        "dinner": 0,
+        "rice": 0
+    },
+    "leader": {
+        "manager": 0
+    },
+    "charcoal": {
+        "coal": 0
+    },
+    "give": {
+        "lend": 0,
+        "allow": 0,
+        "put": 0,
+        "borrow": 0,
+        "receive": 0,
+        "deny": 0,
+        "keep": 0,
+        "know": 0,
+        "steal": 0,
+        "owe": 0
+    },
+    "television": {
+        "communication": 0,
+        "conversation": 0,
+        "language": 0
+    },
+    "tin": {
+        "aluminum": 0,
+        "metal": 0
+    },
+    "attend": {
+        "come": 0,
+        "appear": 0,
+        "arrive": 0,
+        "gather": 0,
+        "send": 0,
+        "go": 0,
+        "bring": 0,
+        "become": 0
+    },
+    "pain": {
+        "harm": 0
+    },
+    "cellar": {
+        "door": 0,
+        "doorway": 0,
+        "gate": 0,
+        "corridor": 0,
+        "window": 0,
+        "bell": 0,
+        "floor": 0,
+        "kitchen": 0,
+        "fraternity": 0,
+        "presence": 0
+    },
+    "certain": {
+        "sure": 0,
+        "confident": 0
+    },
+    "pet": {
+        "cat": 0,
+        "lion": 0,
+        "rabbit": 0,
+        "dog": 0,
+        "mouse": 0,
+        "horse": 0
+    },
+    "reduce": {
+        "shrink": 0,
+        "disappear": 0,
+        "grow": 0,
+        "vanish": 0,
+        "find": 0,
+        "expand": 0
+    },
+    "explain": {
+        "clarify": 0,
+        "discuss": 0,
+        "prove": 0,
+        "argue": 0
+    },
+    "prey": {
+        "god": 0,
+        "spirit": 0,
+        "priest": 0,
+        "father": 0,
+        "devil": 0,
+        "monk": 0,
+        "parent": 0,
+        "man": 0
+    },
+    "guilty": {
+        "ashamed": 0,
+        "bad": 0,
+        "honest": 0,
+        "modest": 0,
+        "awful": 0,
+        "terrible": 0,
+        "immoral": 0,
+        "terrific": 0,
+        "great": 0
+    },
+    "glass": {
+        "crystal": 0
+    },
+    "buy": {
+        "get": 0,
+        "steal": 0,
+        "acquire": 0,
+        "put": 0,
+        "remain": 0,
+        "lose": 0,
+        "take": 0,
+        "give": 0
+    },
+    "border": {
+        "boundary": 0
+    },
+    "dinner": {
+        "meal": 0,
+        "soup": 0,
+        "breakfast": 0,
+        "chicken": 0,
+        "supper": 0,
+        "waist": 0,
+        "bacon": 0
+    },
+    "burial": {
+        "death": 0,
+        "tragedy": 0,
+        "catastrophe": 0,
+        "accident": 0
+    },
+    "north": {
+        "west": 0,
+        "south": 0
+    },
+    "metal": {
+        "aluminum": 0,
+        "tin": 0
+    },
+    "achieve": {
+        "accomplish": 0,
+        "succeed": 0,
+        "try": 0,
+        "win": 0,
+        "become": 0,
+        "fail": 0
+    },
+    "business": {
+        "company": 0,
+        "corporation": 0,
+        "industry": 0
+    },
+    "condition": {
+        "situation": 0,
+        "pact": 0,
+        "boy": 0,
+        "circumstance": 0,
+        "agreement": 0,
+        "kid": 0,
+        "son": 0,
+        "brother": 0,
+        "child": 0
+    },
+    "navy": {
+        "army": 0,
+        "legion": 0,
+        "squad": 0
+    },
+    "sky": {
+        "universe": 0,
+        "sun": 0
+    },
+    "blanket": {
+        "bed": 0,
+        "crib": 0,
+        "furniture": 0,
+        "chair": 0,
+        "couch": 0,
+        "bedroom": 0,
+        "room": 0,
+        "hospital": 0,
+        "cradle": 0
+    },
+    "violin": {
+        "instrument": 0
+    },
+    "kidney": {
+        "organ": 0,
+        "liver": 0,
+        "lung": 0
+    },
+    "movie": {
+        "film": 0
+    },
+    "orthodontist": {
+        "dentist": 0,
+        "doctor": 0,
+        "colonel": 0,
+        "physician": 0,
+        "professor": 0,
+        "temper": 0
+    },
+    "hang": {
+        "kill": 0,
+        "put": 0,
+        "destroy": 0,
+        "choke": 0,
+        "defend": 0,
+        "give": 0,
+        "get": 0,
+        "make": 0
+    },
+    "lemon": {
+        "apple": 0,
+        "tea": 0,
+        "juice": 0,
+        "candy": 0,
+        "sauce": 0,
+        "diet": 0,
+        "sunshine": 0
+    },
+    "confident": {
+        "sure": 0,
+        "certain": 0
+    },
+    "rice": {
+        "bean": 0,
+        "chicken": 0,
+        "boy": 0,
+        "coffee": 0,
+        "bacon": 0,
+        "steak": 0,
+        "dinner": 0,
+        "kid": 0,
+        "son": 0
+    },
+    "illness": {
+        "fever": 0,
+        "infection": 0,
+        "flu": 0,
+        "disease": 0,
+        "danger": 0
+    },
+    "vinegar": {
+        "salad": 0,
+        "diet": 0,
+        "apple": 0,
+        "lemon": 0,
+        "juice": 0,
+        "candy": 0
+    },
+    "steal": {
+        "take": 0,
+        "buy": 0,
+        "give": 0,
+        "possess": 0,
+        "obtain": 0,
+        "carry": 0,
+        "receive": 0,
+        "deliver": 0,
+        "leave": 0,
+        "get": 0
+    },
+    "investigate": {
+        "examine": 0,
+        "pursue": 0,
+        "inspect": 0,
+        "persuade": 0
+    },
+    "profession": {
+        "college": 0,
+        "class": 0
+    },
+    "wood": {
+        "log": 0,
+        "paper": 0,
+        "timber": 0,
+        "formula": 0,
+        "bath": 0,
+        "cardboard": 0
+    },
+    "milk": {
+        "juice": 0,
+        "apple": 0,
+        "lemon": 0,
+        "candy": 0,
+        "sauce": 0,
+        "diet": 0,
+        "sunshine": 0
+    },
+    "information": {
+        "newspaper": 0,
+        "book": 0,
+        "word": 0,
+        "literature": 0,
+        "text": 0,
+        "story": 0,
+        "article": 0,
+        "bible": 0,
+        "essay": 0
+    },
+    "joy": {
+        "pride": 0
+    },
+    "prove": {
+        "argue": 0,
+        "explain": 0,
+        "persuade": 0,
+        "differ": 0,
+        "justify": 0,
+        "complain": 0,
+        "rationalize": 0,
+        "agree": 0,
+        "clarify": 0,
+        "discuss": 0
+    },
+    "anchor": {
+        "boat": 0,
+        "deck": 0,
+        "motor": 0,
+        "car": 0,
+        "floor": 0,
+        "mouse": 0,
+        "engine": 0,
+        "cab": 0
+    },
+    "value": {
+        "belief": 0,
+        "opinion": 0,
+        "impression": 0,
+        "concept": 0,
+        "flower": 0,
+        "idea": 0,
+        "bias": 0,
+        "choice": 0
+    },
+    "biography": {
+        "fiction": 0
+    },
+    "honey": {
+        "sugar": 0
+    },
+    "come": {
+        "attend": 0,
+        "arrive": 0,
+        "go": 0,
+        "bring": 0,
+        "appear": 0,
+        "gather": 0,
+        "send": 0
+    },
+    "ignore": {
+        "avoid": 0,
+        "leave": 0,
+        "forget": 0,
+        "ask": 0,
+        "explore": 0,
+        "reject": 0,
+        "go": 0,
+        "wander": 0,
+        "remain": 0
+    },
+    "bathroom": {
+        "bedroom": 0,
+        "kitchen": 0,
+        "bed": 0,
+        "stomach": 0,
+        "bicycle": 0,
+        "door": 0,
+        "crib": 0,
+        "furniture": 0,
+        "chair": 0
+    },
+    "disappear": {
+        "vanish": 0,
+        "shrink": 0,
+        "find": 0,
+        "reduce": 0,
+        "grow": 0,
+        "locate": 0,
+        "acquire": 0
+    },
+    "exit": {
+        "doorway": 0,
+        "door": 0,
+        "gate": 0,
+        "corridor": 0,
+        "window": 0,
+        "bell": 0,
+        "cellar": 0,
+        "floor": 0
+    },
+    "encourage": {
+        "discourage": 0,
+        "fail": 0,
+        "lose": 0,
+        "succeed": 0,
+        "keep": 0,
+        "get": 0
+    },
+    "church": {
+        "choir": 0
+    },
+    "cab": {
+        "taxi": 0,
+        "car": 0,
+        "bus": 0,
+        "carriage": 0,
+        "bicycle": 0,
+        "highway": 0,
+        "factory": 0,
+        "horn": 0,
+        "street": 0
+    },
+    "quest": {
+        "goal": 0,
+        "winner": 0,
+        "champion": 0,
+        "candidate": 0,
+        "presence": 0
+    },
+    "bride": {
+        "groom": 0,
+        "princess": 0,
+        "king": 0,
+        "island": 0,
+        "prince": 0
+    },
+    "mechanic": {
+        "worker": 0,
+        "employer": 0,
+        "camera": 0,
+        "employee": 0,
+        "lens": 0,
+        "president": 0
+    },
+    "mink": {
+        "fur": 0,
+        "oil": 0,
+        "woman": 0,
+        "gun": 0,
+        "wife": 0,
+        "man": 0,
+        "secretary": 0
+    },
+    "salary": {
+        "money": 0,
+        "fee": 0,
+        "capital": 0,
+        "diamond": 0,
+        "pearl": 0,
+        "payment": 0
+    },
+    "minister": {
+        "rabbi": 0,
+        "teacher": 0,
+        "instructor": 0,
+        "helper": 0,
+        "friend": 0
+    },
+    "bench": {
+        "chair": 0,
+        "sofa": 0,
+        "bed": 0,
+        "crib": 0,
+        "furniture": 0,
+        "couch": 0,
+        "bedroom": 0
+    },
+    "politician": {
+        "president": 0,
+        "mayor": 0,
+        "pupil": 0,
+        "pollution": 0,
+        "camera": 0,
+        "chief": 0,
+        "student": 0
+    },
+    "heavy": {
+        "big": 0,
+        "laden": 0,
+        "large": 0,
+        "broad": 0,
+        "easy": 0,
+        "huge": 0,
+        "flexible": 0
+    },
+    "day": {
+        "dawn": 0,
+        "morning": 0,
+        "night": 5,
+        "gun": 0,
+        "chapter": 0
+    },
+    "prestige": {
+        "wealth": 0,
+        "fame": 0,
+        "poverty": 0
+    },
+    "inquire": {
+        "think": 0,
+        "require": 0,
+        "contemplate": 0,
+        "rationalize": 0,
+        "decide": 0,
+        "try": 0,
+        "arrange": 0
+    },
+    "intelligence": {
+        "wisdom": 0,
+        "logic": 0,
+        "insight": 0,
+        "skill": 0,
+        "ignorance": 0,
+        "arithmetic": 0,
+        "fact": 0
+    },
+    "actress": {
+        "actor": 0,
+        "singer": 0
+    },
+    "flower": {
+        "violet": 0,
+        "bulb": 0,
+        "bush": 0,
+        "belief": 0,
+        "endurance": 0,
+        "opinion": 0,
+        "value": 0,
+        "impression": 0
+    },
+    "racket": {
+        "noise": 0,
+        "rattle": 0
+    },
+    "home": {
+        "state": 0
+    },
+    "effort": {
+        "difficulty": 0
+    },
+    "agree": {
+        "please": 0,
+        "differ": 0,
+        "argue": 0,
+        "satisfy": 0,
+        "entertain": 0,
+        "plead": 0,
+        "persuade": 0
+    },
+    "plead": {
+        "beg": 0,
+        "ask": 0,
+        "please": 0,
+        "borrow": 0,
+        "pray": 0,
+        "ignore": 0,
+        "satisfy": 0
+    },
+    "rat": {
+        "mouse": 0,
+        "cat": 0,
+        "management": 0,
+        "deck": 0,
+        "container": 0,
+        "lion": 0,
+        "pet": 0,
+        "rabbit": 0,
+        "dog": 0
+    },
+    "car": {
+        "cab": 0,
+        "carriage": 0,
+        "bicycle": 0,
+        "highway": 0,
+        "factory": 0,
+        "horn": 0,
+        "street": 0,
+        "boat": 0,
+        "gauge": 0,
+        "elevator": 0,
+        "bridge": 0
+    },
+    "rod": {
+        "curtain": 0
+    },
+    "roam": {
+        "wander": 0,
+        "leave": 0,
+        "go": 0,
+        "ignore": 0,
+        "remain": 0,
+        "take": 0,
+        "arrive": 0,
+        "appear": 0
+    },
+    "grade": {
+        "school": 0,
+        "law": 0
+    },
+    "sad": {
+        "terrible": 0,
+        "funny": 0,
+        "bad": 0,
+        "dull": 0,
+        "awful": 0,
+        "immoral": 0,
+        "guilty": 0,
+        "terrific": 0
+    },
+    "endurance": {
+        "strength": 0,
+        "band": 0,
+        "flower": 0,
+        "might": 0,
+        "capability": 0,
+        "orchestra": 0,
+        "parade": 0,
+        "liquor": 0,
+        "violet": 0
+    },
+    "adult": {
+        "guardian": 0,
+        "parent": 0,
+        "child": 0,
+        "baby": 0,
+        "mother": 0,
+        "father": 0,
+        "boy": 0,
+        "girl": 0,
+        "man": 0
+    },
+    "boundary": {
+        "border": 0
+    },
+    "meal": {
+        "supper": 0,
+        "dinner": 0,
+        "waist": 0,
+        "breakfast": 0,
+        "soup": 0,
+        "chicken": 0,
+        "stomach": 0
+    },
+    "misery": {
+        "despair": 0
+    },
+    "street": {
+        "alley": 0,
+        "car": 0,
+        "bowl": 0,
+        "cab": 0,
+        "carriage": 0,
+        "bicycle": 0,
+        "highway": 0,
+        "factory": 0,
+        "horn": 0
+    },
+    "threat": {
+        "danger": 0,
+        "disease": 0,
+        "infection": 0,
+        "illness": 0
+    },
+    "pursue": {
+        "investigate": 0,
+        "persuade": 0,
+        "examine": 0,
+        "argue": 0,
+        "inspect": 0
+    },
+    "childish": {
+        "foolish": 0,
+        "dumb": 0,
+        "stupid": 0,
+        "dense": 0,
+        "clever": 0,
+        "intelligent": 0,
+        "smart": 0,
+        "rare": 0,
+        "huge": 0
+    },
+    "night": {
+        "dawn": 0,
+        "day": 0,
+        "chapter": 0,
+        "gun": 0,
+        "morning": 0,
+        "choice": 0
+    },
+    "dreary": {
+        "dull": 0,
+        "sharp": 0,
+        "funny": 0,
+        "sad": 0
+    },
+    "ocean": {
+        "sea": 0,
+        "river": 0,
+        "beach": 0,
+        "stream": 0,
+        "valley": 0,
+        "seashore": 0,
+        "island": 0
+    },
+    "build": {
+        "create": 0,
+        "add": 0,
+        "make": 0,
+        "imagine": 0,
+        "destroy": 0,
+        "join": 0,
+        "multiply": 0,
+        "divide": 0
+    },
+    "pilot": {
+        "driver": 0
+    },
+    "machine": {
+        "engine": 0,
+        "motor": 0,
+        "boat": 0,
+        "deck": 0,
+        "car": 0
+    },
+    "discourage": {
+        "fail": 0,
+        "encourage": 0,
+        "lose": 0,
+        "succeed": 0,
+        "keep": 0,
+        "get": 0
+    },
+    "kitchen": {
+        "bathroom": 0,
+        "door": 0,
+        "bedroom": 0,
+        "doorway": 0,
+        "gate": 0,
+        "corridor": 0,
+        "window": 0,
+        "bell": 0,
+        "cellar": 0,
+        "floor": 0
+    },
+    "tooth": {
+        "mouth": 0,
+        "lip": 0,
+        "nose": 0,
+        "hip": 0,
+        "throat": 0
+    },
+    "candidate": {
+        "winner": 0,
+        "champion": 0,
+        "goal": 0,
+        "presence": 0,
+        "quest": 0,
+        "door": 0
+    },
+    "pie": {
+        "chocolate": 0
+    },
+    "instrument": {
+        "violin": 0
+    },
+    "presence": {
+        "winner": 0,
+        "door": 0,
+        "absence": 0,
+        "champion": 0,
+        "goal": 0,
+        "candidate": 0,
+        "doorway": 0,
+        "gate": 0,
+        "corridor": 0,
+        "window": 0
+    },
+    "anxious": {
+        "impatient": 0,
+        "afraid": 0
+    },
+    "nephew": {
+        "aunt": 0,
+        "uncle": 0,
+        "cousin": 0,
+        "man": 0,
+        "husband": 0
+    },
+    "frustration": {
+        "anger": 0,
+        "fury": 0,
+        "mood": 0,
+        "emotion": 0
+    },
+    "singer": {
+        "actor": 0,
+        "actress": 0
+    },
+    "partner": {
+        "guy": 0,
+        "boy": 0,
+        "stud": 0,
+        "friend": 0,
+        "girl": 0,
+        "kid": 0,
+        "son": 0,
+        "brother": 0,
+        "child": 0,
+        "soldier": 0
+    },
+    "boat": {
+        "deck": 0,
+        "motor": 0,
+        "car": 0,
+        "anchor": 0,
+        "floor": 0,
+        "mouse": 0,
+        "engine": 0,
+        "cab": 0,
+        "carriage": 0
+    },
+    "butter": {
+        "potato": 0
+    },
+    "globe": {
+        "world": 0
+    },
+    "article": {
+        "journal": 0,
+        "book": 0,
+        "literature": 0,
+        "text": 0,
+        "story": 0,
+        "bible": 0,
+        "information": 0,
+        "essay": 0,
+        "theme": 0
+    },
+    "glad": {
+        "happy": 0,
+        "mad": 0,
+        "cheerful": 0,
+        "young": 0,
+        "angry": 0,
+        "unhappy": 0,
+        "terrific": 0
+    },
+    "ask": {
+        "plead": 0,
+        "beg": 0,
+        "pray": 0,
+        "ignore": 0,
+        "please": 0,
+        "borrow": 0
+    },
+    "luck": {
+        "happiness": 0,
+        "peace": 0
+    },
+    "simple": {
+        "easy": 0,
+        "hard": 0,
+        "difficult": 0,
+        "flexible": 0,
+        "big": 0,
+        "tough": 0
+    },
+    "hound": {
+        "fox": 0
+    },
+    "go": {
+        "leave": 0,
+        "begin": 0,
+        "enter": 0,
+        "send": 0,
+        "allow": 0,
+        "come": 0,
+        "sell": 0,
+        "ignore": 0,
+        "wander": 0,
+        "remain": 0
+    },
+    "denial": {
+        "confession": 0
+    },
+    "strength": {
+        "might": 0,
+        "endurance": 0,
+        "capability": 0,
+        "band": 0,
+        "flower": 0,
+        "competence": 0
+    },
+    "carpet": {
+        "house": 0,
+        "apartment": 0,
+        "barn": 0,
+        "key": 0,
+        "hotel": 0,
+        "furniture": 0
+    },
+    "book": {
+        "literature": 0,
+        "text": 0,
+        "story": 0,
+        "article": 0,
+        "bible": 0,
+        "information": 0,
+        "essay": 0,
+        "theme": 0,
+        "topic": 0,
+        "word": 0
+    },
+    "carriage": {
+        "wagon": 0,
+        "car": 0,
+        "container": 0,
+        "cab": 0,
+        "bicycle": 0,
+        "highway": 0,
+        "factory": 0,
+        "horn": 0,
+        "street": 0
+    },
+    "arm": {
+        "shoulder": 0,
+        "body": 0,
+        "bone": 0,
+        "muscle": 0,
+        "vein": 0,
+        "wrist": 0,
+        "leg": 0,
+        "knee": 0,
+        "neck": 0,
+        "head": 0
+    },
+    "happiness": {
+        "peace": 0,
+        "luck": 0
+    },
+    "formal": {
+        "proper": 0,
+        "polite": 0
+    },
+    "administration": {
+        "management": 0,
+        "job": 0,
+        "mouse": 0,
+        "task": 0,
+        "rat": 0,
+        "cat": 0,
+        "deck": 0
+    },
+    "dictionary": {
+        "definition": 0,
+        "word": 0,
+        "phrase": 0,
+        "literature": 0,
+        "page": 0,
+        "clue": 0,
+        "newspaper": 0
+    },
+    "insight": {
+        "intelligence": 0,
+        "fact": 0,
+        "wisdom": 0,
+        "logic": 0,
+        "skill": 0,
+        "ignorance": 0,
+        "proof": 0
+    },
+    "put": {
+        "give": 0,
+        "hang": 0,
+        "get": 0,
+        "lend": 0,
+        "allow": 0,
+        "borrow": 0,
+        "receive": 0,
+        "deny": 0,
+        "keep": 0,
+        "know": 0
+    },
+    "industry": {
+        "business": 0,
+        "company": 0,
+        "corporation": 0
+    },
+    "quick": {
+        "rapid": 0,
+        "fast": 0
+    },
+    "idea": {
+        "scheme": 0,
+        "opinion": 0,
+        "image": 0,
+        "belief": 0,
+        "bias": 0,
+        "choice": 0,
+        "reflection": 0
+    },
+    "payment": {
+        "fee": 0,
+        "salary": 0,
+        "money": 0,
+        "capital": 0,
+        "diamond": 0
+    },
+    "ball": {
+        "cannon": 0,
+        "costume": 0,
+        "glove": 0,
+        "basket": 0,
+        "gun": 0,
+        "knife": 0
+    },
+    "ashamed": {
+        "guilty": 0,
+        "modest": 0,
+        "bad": 0,
+        "honest": 0,
+        "flexible": 0,
+        "awful": 0,
+        "terrible": 0
+    },
+    "happen": {
+        "occur": 0,
+        "do": 0,
+        "quit": 0,
+        "begin": 0
+    },
+    "calf": {
+        "bull": 0
+    },
+    "paragraph": {
+        "letter": 0,
+        "page": 0,
+        "word": 0,
+        "phrase": 0,
+        "literature": 0
+    },
+    "soldier": {
+        "boy": 0,
+        "kid": 0,
+        "son": 0,
+        "brother": 0,
+        "child": 0,
+        "partner": 0,
+        "condition": 0,
+        "rice": 0,
+        "daughter": 0
+    },
+    "alley": {
+        "street": 0,
+        "bowl": 0,
+        "car": 0,
+        "plate": 0,
+        "tail": 0,
+        "cab": 0,
+        "carriage": 0
+    },
+    "fee": {
+        "payment": 0,
+        "salary": 0,
+        "money": 0,
+        "capital": 0,
+        "diamond": 0,
+        "pearl": 0
+    },
+    "exotic": {
+        "rare": 0,
+        "scarce": 0,
+        "dumb": 0,
+        "stupid": 0,
+        "dense": 0,
+        "foolish": 0,
+        "clever": 0,
+        "intelligent": 0
+    },
+    "mayor": {
+        "president": 0,
+        "chief": 0,
+        "politician": 0,
+        "pupil": 0,
+        "pollution": 0,
+        "camera": 0
+    },
+    "stream": {
+        "river": 0,
+        "sea": 0,
+        "valley": 0,
+        "ocean": 0,
+        "beach": 0,
+        "canyon": 0
+    },
+    "course": {
+        "action": 0,
+        "stomach": 0,
+        "game": 0,
+        "waist": 0,
+        "body": 0,
+        "vein": 0,
+        "bedroom": 0
+    },
+    "news": {
+        "gossip": 0,
+        "medium": 0
+    },
+    "tower": {
+        "bell": 0,
+        "door": 0,
+        "doorway": 0,
+        "gate": 0,
+        "corridor": 0,
+        "window": 0,
+        "cellar": 0,
+        "floor": 0,
+        "kitchen": 0
+    },
+    "world": {
+        "globe": 0
+    },
+    "banker": {
+        "lawyer": 0,
+        "attorney": 0
+    },
+    "beg": {
+        "plead": 0,
+        "ask": 0,
+        "borrow": 0,
+        "please": 0,
+        "pray": 0,
+        "ignore": 0
+    },
+    "stupid": {
+        "dumb": 0,
+        "dense": 0,
+        "foolish": 0,
+        "clever": 0,
+        "intelligent": 0,
+        "smart": 0,
+        "rare": 0,
+        "huge": 0
+    },
+    "wine": {
+        "liquor": 0,
+        "alcohol": 0,
+        "brandy": 0,
+        "band": 0,
+        "century": 0,
+        "gin": 0,
+        "beer": 0,
+        "whiskey": 0
+    },
+    "decade": {
+        "era": 0,
+        "century": 0,
+        "liquor": 0,
+        "wine": 0,
+        "band": 0
+    },
+    "brow": {
+        "eye": 0,
+        "tear": 0
+    },
+    "state": {
+        "home": 0
+    },
+    "snow": {
+        "weather": 0,
+        "storm": 0,
+        "cloud": 0,
+        "hurricane": 0,
+        "haze": 0,
+        "mist": 0
+    },
+    "appliance": {
+        "pot": 0
+    },
+    "conquest": {
+        "battle": 0,
+        "journey": 0,
+        "hymn": 0,
+        "trip": 0,
+        "bible": 0,
+        "straw": 0
+    },
+    "hostility": {
+        "aggression": 0
+    },
+    "seem": {
+        "pretend": 0,
+        "become": 0,
+        "imagine": 0,
+        "portray": 0,
+        "assume": 0,
+        "make": 0,
+        "appear": 0,
+        "accomplish": 0,
+        "organize": 0
+    },
+    "evaluate": {
+        "analyze": 0,
+        "learn": 0,
+        "compare": 0,
+        "absorb": 0,
+        "listen": 0,
+        "forget": 0
+    },
+    "knee": {
+        "bone": 0,
+        "arm": 0,
+        "jaw": 0,
+        "teeth": 0,
+        "ankle": 0,
+        "elbow": 0,
+        "muscle": 0,
+        "neck": 0,
+        "shoulder": 0
+    },
+    "computer": {
+        "disc": 0
+    },
+    "flesh": {
+        "blood": 0,
+        "marrow": 0
+    },
+    "marrow": {
+        "blood": 0,
+        "flesh": 0
+    },
+    "ceremony": {
+        "celebration": 0
+    },
+    "noise": {
+        "racket": 0,
+        "rattle": 0
+    },
+    "noticeable": {
+        "obvious": 0,
+        "apparent": 0
+    },
+    "cherish": {
+        "keep": 0,
+        "possess": 0,
+        "protect": 0,
+        "borrow": 0,
+        "lose": 0,
+        "give": 0,
+        "take": 0,
+        "absorb": 0,
+        "defend": 0
+    },
+    "ray": {
+        "sunshine": 0,
+        "apple": 0,
+        "lemon": 0,
+        "juice": 0,
+        "candy": 0,
+        "sauce": 0,
+        "diet": 0
+    },
+    "possess": {
+        "keep": 0,
+        "take": 0,
+        "absorb": 0,
+        "protect": 0,
+        "cherish": 0,
+        "borrow": 0,
+        "lose": 0,
+        "give": 0,
+        "obtain": 0
+    },
+    "lake": {
+        "swamp": 0
+    },
+    "narrow": {
+        "long": 0,
+        "broad": 0,
+        "wide": 0,
+        "dirty": 0,
+        "short": 0,
+        "big": 0,
+        "fresh": 0,
+        "cheap": 0
+    },
+    "belly": {
+        "abdomen": 0
+    },
+    "task": {
+        "job": 0,
+        "assignment": 0,
+        "woman": 0,
+        "straw": 0,
+        "highway": 0,
+        "island": 0,
+        "management": 0,
+        "wife": 0,
+        "man": 0
+    },
+    "maple": {
+        "oak": 0,
+        "tree": 0
+    },
+    "pollution": {
+        "atmosphere": 0,
+        "president": 0,
+        "politician": 0,
+        "mayor": 0,
+        "pupil": 0,
+        "camera": 0
+    },
+    "order": {
+        "menu": 0
+    },
+    "activity": {
+        "movement": 0
+    },
+    "lawyer": {
+        "attorney": 0,
+        "banker": 0
+    },
+    "circumstance": {
+        "situation": 0,
+        "condition": 0,
+        "pact": 0,
+        "boy": 0
+    },
+    "creator": {
+        "maker": 0,
+        "author": 0,
+        "reader": 0
+    },
+    "harm": {
+        "pain": 0
+    },
+    "carbon": {
+        "atom": 0,
+        "molecule": 0,
+        "air": 0,
+        "helium": 0
+    },
+    "peace": {
+        "happiness": 0,
+        "luck": 0
+    },
+    "alcohol": {
+        "gin": 0,
+        "beer": 0,
+        "wine": 0,
+        "whiskey": 0,
+        "brandy": 0,
+        "cocktail": 0,
+        "beverage": 0,
+        "champagne": 0
+    },
+    "limb": {
+        "leg": 0,
+        "arm": 0,
+        "shoulder": 0,
+        "body": 0,
+        "bone": 0,
+        "muscle": 0,
+        "vein": 0,
+        "wrist": 0
+    },
+    "attention": {
+        "awareness": 0,
+        "interest": 0
+    },
+    "pray": {
+        "ask": 0,
+        "communicate": 0,
+        "plead": 0,
+        "beg": 0,
+        "ignore": 0,
+        "please": 0
+    },
+    "glove": {
+        "ball": 0,
+        "cannon": 0,
+        "costume": 0,
+        "basket": 0,
+        "gun": 0
+    },
+    "hospital": {
+        "bed": 0,
+        "crib": 0,
+        "furniture": 0,
+        "chair": 0,
+        "couch": 0,
+        "bedroom": 0,
+        "blanket": 0,
+        "room": 0,
+        "cradle": 0
+    },
+    "restore": {
+        "replace": 0,
+        "bring": 0,
+        "carry": 0,
+        "send": 0,
+        "come": 0,
+        "complain": 0
+    },
+    "mustard": {
+        "seed": 0
+    },
+    "cheap": {
+        "inexpensive": 0,
+        "dirty": 0,
+        "narrow": 0,
+        "long": 0,
+        "broad": 0
+    },
+    "winter": {
+        "season": 0,
+        "summer": 0
+    },
+    "theft": {
+        "crime": 0,
+        "violation": 0,
+        "fraud": 0
+    },
+    "horn": {
+        "drum": 0,
+        "car": 0,
+        "guitar": 0,
+        "cab": 0,
+        "carriage": 0,
+        "bicycle": 0,
+        "highway": 0,
+        "factory": 0,
+        "street": 0
+    },
+    "doctor": {
+        "physician": 0,
+        "orthodontist": 0,
+        "professor": 0,
+        "temper": 0,
+        "dentist": 0,
+        "student": 0
+    },
+    "bottle": {
+        "container": 0,
+        "jar": 0,
+        "wagon": 0,
+        "mouse": 0,
+        "cup": 0,
+        "carriage": 0
+    },
+    "maker": {
+        "creator": 0,
+        "author": 0,
+        "reader": 0
+    },
+    "criticism": {
+        "argument": 0,
+        "discussion": 0,
+        "agreement": 0,
+        "pact": 0,
+        "hole": 0
+    },
+    "anger": {
+        "fury": 0,
+        "frustration": 5,
+        "mood": 3,
+        "emotion": 0
+    },
+    "calendar": {
+        "date": 0,
+        "birthday": 0,
+        "year": 0
+    },
+    "victor": {
+        "man": 0,
+        "husband": 0,
+        "father": 0,
+        "warrior": 0,
+        "child": 0,
+        "uncle": 0,
+        "woman": 0,
+        "sentry": 0,
+        "wife": 0
+    },
+    "cheek": {
+        "tongue": 0,
+        "muscle": 0,
+        "throat": 0,
+        "arm": 0,
+        "bone": 0,
+        "nose": 0
+    },
+    "song": {
+        "ballad": 0,
+        "story": 0,
+        "book": 0,
+        "topic": 0,
+        "literature": 0,
+        "text": 0
+    },
+    "emergency": {
+        "accident": 0,
+        "catastrophe": 0,
+        "death": 0,
+        "tragedy": 0,
+        "burial": 0
+    },
+    "people": {
+        "population": 0,
+        "party": 0,
+        "gun": 0,
+        "cent": 0,
+        "balloon": 0,
+        "dollar": 0,
+        "cannon": 0,
+        "knife": 0,
+        "dawn": 0
+    },
+    "terrific": {
+        "wonderful": 0,
+        "bad": 0,
+        "mad": 0,
+        "delightful": 0,
+        "great": 0,
+        "beautiful": 0,
+        "awful": 0,
+        "terrible": 0,
+        "immoral": 0,
+        "guilty": 0
+    },
+    "find": {
+        "locate": 0,
+        "acquire": 0,
+        "disappear": 0,
+        "get": 0,
+        "obtain": 0,
+        "join": 0,
+        "vanish": 0,
+        "shrink": 0
+    },
+    "instructor": {
+        "teacher": 0,
+        "rabbi": 0,
+        "helper": 0,
+        "friend": 0,
+        "minister": 0,
+        "maid": 0,
+        "buddy": 0
+    },
+    "spine": {
+        "neck": 0,
+        "body": 0,
+        "bone": 0,
+        "arm": 0,
+        "chest": 0,
+        "stomach": 0,
+        "nerve": 0,
+        "shoulder": 0
+    },
+    "morning": {
+        "day": 0,
+        "dawn": 0,
+        "night": 3,
+        "gun": 0,
+        "chapter": 0
+    },
+    "ability": {
+        "competence": 0,
+        "capability": 0,
+        "strength": 0,
+        "might": 0,
+        "endurance": 0
+    },
+    "dad": {
+        "mother": 0,
+        "guardian": 0,
+        "wife": 0,
+        "friend": 0,
+        "adult": 0,
+        "woman": 0,
+        "husband": 0
+    },
+    "choir": {
+        "church": 0
+    },
+    "create": {
+        "make": 0,
+        "build": 0,
+        "imagine": 0,
+        "destroy": 0,
+        "construct": 0,
+        "earn": 0,
+        "become": 0,
+        "add": 0
+    },
+    "elegance": {
+        "style": 0,
+        "fashion": 0
+    },
+    "proclaim": {
+        "announce": 0,
+        "declare": 0
+    },
+    "era": {
+        "decade": 0,
+        "century": 0,
+        "liquor": 0,
+        "wine": 0
+    },
+    "management": {
+        "administration": 0,
+        "job": 0,
+        "mouse": 0,
+        "task": 0,
+        "rat": 0,
+        "cat": 0,
+        "deck": 0,
+        "container": 0
+    },
+    "year": {
+        "birthday": 0,
+        "date": 0,
+        "calendar": 0
+    },
+    "clue": {
+        "word": 0,
+        "phrase": 0,
+        "literature": 0,
+        "dictionary": 0,
+        "page": 0,
+        "newspaper": 0,
+        "book": 0,
+        "definition": 0
+    },
+    "polite": {
+        "proper": 0,
+        "formal": 0
+    },
+    "hose": {
+        "garden": 0,
+        "car": 0,
+        "cab": 0,
+        "carriage": 0,
+        "bicycle": 0,
+        "highway": 0,
+        "factory": 0,
+        "horn": 0,
+        "street": 0,
+        "boat": 0
+    },
+    "parade": {
+        "crowd": 0,
+        "band": 0,
+        "mob": 0,
+        "bunch": 0,
+        "orchestra": 0,
+        "liquor": 0,
+        "endurance": 0
+    },
+    "acquire": {
+        "get": 0,
+        "obtain": 0,
+        "find": 0,
+        "join": 0,
+        "buy": 0,
+        "put": 0,
+        "remain": 0,
+        "lose": 0,
+        "take": 0
+    },
+    "region": {
+        "area": 0,
+        "zone": 0,
+        "corner": 0
+    },
+    "chicken": {
+        "steak": 0,
+        "dinner": 0,
+        "rice": 0,
+        "meat": 0,
+        "meal": 0,
+        "soup": 0,
+        "breakfast": 0,
+        "bean": 0
+    },
+    "bubble": {
+        "suds": 0
+    },
+    "linen": {
+        "fabric": 0,
+        "clothes": 0,
+        "cloth": 0,
+        "coat": 0,
+        "jacket": 0,
+        "closet": 0,
+        "drawer": 0,
+        "button": 0
+    },
+    "straw": {
+        "task": 0,
+        "hymn": 0,
+        "wife": 0,
+        "job": 0,
+        "assignment": 0,
+        "woman": 0,
+        "highway": 0,
+        "island": 0,
+        "bible": 0,
+        "conquest": 0
+    },
+    "sell": {
+        "borrow": 0,
+        "go": 0,
+        "remind": 0,
+        "beg": 0,
+        "keep": 0,
+        "give": 0,
+        "want": 0,
+        "leave": 0,
+        "begin": 0,
+        "enter": 0
+    },
+    "declare": {
+        "announce": 0,
+        "proclaim": 0
+    },
+    "think": {
+        "contemplate": 0,
+        "rationalize": 0,
+        "decide": 0,
+        "inquire": 0,
+        "try": 0,
+        "argue": 0,
+        "choose": 0,
+        "conclude": 0
+    },
+    "collect": {
+        "save": 0,
+        "protect": 0,
+        "spend": 0,
+        "defend": 0,
+        "keep": 0
+    },
+    "wide": {
+        "narrow": 0,
+        "fresh": 0,
+        "long": 0,
+        "broad": 0,
+        "dirty": 0,
+        "new": 0,
+        "old": 0,
+        "short": 0
+    },
+    "canyon": {
+        "valley": 0,
+        "river": 0,
+        "stream": 0,
+        "sea": 0,
+        "ocean": 0
+    },
+    "century": {
+        "decade": 0,
+        "liquor": 0,
+        "era": 0,
+        "wine": 0,
+        "band": 0
+    },
+    "death": {
+        "tragedy": 0,
+        "burial": 0,
+        "catastrophe": 0,
+        "accident": 0
+    },
+    "obey": {
+        "behave": 0,
+        "listen": 0,
+        "hear": 0,
+        "understand": 0,
+        "learn": 0,
+        "speak": 0
+    },
+    "impression": {
+        "belief": 0,
+        "opinion": 0,
+        "value": 0,
+        "concept": 0,
+        "flower": 0,
+        "idea": 0,
+        "bias": 0,
+        "choice": 0
+    },
+    "capability": {
+        "competence": 0,
+        "strength": 0,
+        "ability": 0,
+        "might": 0,
+        "endurance": 0
+    },
+    "composer": {
+        "writer": 0
+    },
+    "discussion": {
+        "argument": 0,
+        "criticism": 0,
+        "agreement": 0,
+        "pact": 0,
+        "hole": 0
+    },
+    "apple": {
+        "lemon": 0,
+        "juice": 0,
+        "candy": 0,
+        "sauce": 0,
+        "diet": 0,
+        "sunshine": 0,
+        "tea": 0,
+        "milk": 0
+    },
+    "quit": {
+        "begin": 0,
+        "do": 0,
+        "originate": 0,
+        "go": 0,
+        "happen": 0,
+        "discover": 0,
+        "leave": 0
+    },
+    "bishop": {
+        "archbishop": 0
+    },
+    "opinion": {
+        "belief": 0,
+        "idea": 0,
+        "bias": 0,
+        "choice": 0,
+        "value": 0,
+        "impression": 0,
+        "concept": 0,
+        "flower": 0,
+        "scheme": 0
+    },
+    "chair": {
+        "bench": 0,
+        "sofa": 0,
+        "bed": 0,
+        "crib": 0,
+        "furniture": 0,
+        "couch": 0,
+        "bedroom": 0,
+        "blanket": 0
+    },
+    "inch": {
+        "meter": 0,
+        "yard": 0
+    },
+    "attach": {
+        "join": 0,
+        "add": 0,
+        "participate": 0,
+        "marry": 0,
+        "cooperate": 0,
+        "acquire": 0,
+        "build": 0,
+        "multiply": 0,
+        "divide": 0
+    },
+    "leave": {
+        "go": 0,
+        "ignore": 0,
+        "wander": 0,
+        "remain": 0,
+        "take": 0,
+        "arrive": 0,
+        "appear": 0,
+        "enter": 0,
+        "begin": 0
+    },
+    "determine": {
+        "predict": 0,
+        "assume": 0,
+        "pretend": 0,
+        "imagine": 0
+    },
+    "pupil": {
+        "student": 0,
+        "president": 0,
+        "professor": 0,
+        "politician": 0,
+        "mayor": 0,
+        "pollution": 0,
+        "camera": 0
+    },
+    "crystal": {
+        "glass": 0
+    },
+    "fog": {
+        "cloud": 0,
+        "haze": 0,
+        "mist": 0,
+        "storm": 0,
+        "weather": 0,
+        "rain": 0,
+        "hurricane": 0
+    },
+    "king": {
+        "prince": 0,
+        "princess": 0,
+        "bride": 0,
+        "island": 0,
+        "groom": 0
+    },
+    "skill": {
+        "intelligence": 0,
+        "wisdom": 0,
+        "logic": 0,
+        "insight": 0,
+        "ignorance": 0,
+        "arithmetic": 0,
+        "fact": 0
+    },
+    "verify": {
+        "say": 0,
+        "justify": 0,
+        "participate": 0,
+        "argue": 0,
+        "join": 0,
+        "cooperate": 0
+    },
+    "juice": {
+        "milk": 0,
+        "apple": 0,
+        "lemon": 0,
+        "candy": 0,
+        "sauce": 0,
+        "diet": 0,
+        "sunshine": 0
+    },
+    "literature": {
+        "book": 0,
+        "word": 0,
+        "text": 0,
+        "story": 0,
+        "article": 0,
+        "bible": 0,
+        "information": 0,
+        "essay": 0,
+        "theme": 0,
+        "topic": 0
+    },
+    "hole": {
+        "wife": 0,
+        "agreement": 0,
+        "woman": 0,
+        "mother": 0,
+        "husband": 0,
+        "cent": 0,
+        "bath": 0,
+        "straw": 0,
+        "pact": 0,
+        "argument": 0
+    },
+    "violet": {
+        "flower": 0,
+        "bulb": 0,
+        "bush": 0,
+        "belief": 0,
+        "endurance": 0,
+        "opinion": 0,
+        "value": 0
+    },
+    "gun": {
+        "cannon": 0,
+        "knife": 0,
+        "dawn": 0,
+        "people": 0,
+        "trick": 0,
+        "fur": 0,
+        "ball": 0,
+        "day": 0,
+        "night": 0
+    },
+    "daughter": {
+        "baby": 0,
+        "kid": 0,
+        "father": 0,
+        "adult": 0,
+        "boy": 0,
+        "parent": 0,
+        "man": 0,
+        "brother": 0,
+        "son": 0
+    },
+    "cattle": {
+        "cow": 0,
+        "beef": 0,
+        "sheep": 0,
+        "goat": 0,
+        "lamb": 0
+    },
+    "sickness": {
+        "cancer": 0
+    },
+    "aviation": {
+        "flight": 0
+    },
+    "jet": {
+        "plane": 0,
+        "airport": 0
+    },
+    "opponent": {
+        "adversary": 0
+    },
+    "young": {
+        "happy": 0,
+        "restless": 0,
+        "cheerful": 0,
+        "glad": 0,
+        "angry": 0,
+        "mad": 0,
+        "delightful": 0
+    },
+    "elect": {
+        "appoint": 0,
+        "choose": 0,
+        "decide": 0,
+        "want": 0,
+        "conclude": 0,
+        "think": 0
+    },
+    "herb": {
+        "marijuana": 0
+    },
+    "speak": {
+        "acknowledge": 0,
+        "hear": 0,
+        "accept": 0,
+        "notify": 0,
+        "listen": 0,
+        "believe": 0,
+        "forgive": 0,
+        "recommend": 0
+    },
+    "jar": {
+        "bottle": 0,
+        "cup": 0,
+        "container": 0,
+        "cone": 0,
+        "spoon": 0,
+        "wagon": 0,
+        "mouse": 0
+    },
+    "grief": {
+        "agony": 0
+    },
+    "crib": {
+        "cradle": 0,
+        "bed": 0,
+        "furniture": 0,
+        "chair": 0,
+        "couch": 0,
+        "bedroom": 0,
+        "blanket": 0,
+        "room": 0,
+        "hospital": 0
+    },
+    "confession": {
+        "denial": 0
+    },
+    "understand": {
+        "know": 0,
+        "forgive": 0,
+        "listen": 0,
+        "comprehend": 0,
+        "believe": 0,
+        "forget": 0,
+        "give": 0,
+        "accept": 0
+    },
+    "tiny": {
+        "huge": 0,
+        "large": 0,
+        "dumb": 0,
+        "big": 0,
+        "flexible": 0,
+        "stupid": 0,
+        "dense": 0,
+        "foolish": 0
+    },
+    "gate": {
+        "door": 0,
+        "doorway": 0,
+        "corridor": 0,
+        "window": 0,
+        "bell": 0,
+        "cellar": 0,
+        "floor": 0,
+        "kitchen": 0,
+        "fraternity": 0,
+        "presence": 0
+    },
+    "locate": {
+        "find": 0,
+        "acquire": 0,
+        "disappear": 0,
+        "get": 0,
+        "obtain": 0,
+        "join": 0,
+        "vanish": 0,
+        "shrink": 0
+    },
+    "rationalize": {
+        "think": 0,
+        "argue": 0,
+        "contemplate": 0,
+        "decide": 0,
+        "inquire": 0,
+        "try": 0,
+        "persuade": 0,
+        "differ": 0,
+        "justify": 0,
+        "prove": 0
+    },
+    "modest": {
+        "ashamed": 0,
+        "flexible": 0,
+        "guilty": 0,
+        "elastic": 0,
+        "easy": 0,
+        "large": 0,
+        "bad": 0,
+        "honest": 0
+    },
+    "symbol": {
+        "code": 0
+    },
+    "bean": {
+        "coffee": 0,
+        "rice": 0,
+        "bacon": 0,
+        "chicken": 0,
+        "boy": 0,
+        "meat": 0,
+        "breakfast": 0
+    },
+    "sweater": {
+        "jacket": 0,
+        "clothes": 0,
+        "fabric": 0,
+        "cloth": 0,
+        "coat": 0,
+        "closet": 0,
+        "drawer": 0,
+        "button": 0
+    },
+    "drum": {
+        "guitar": 0,
+        "horn": 0,
+        "car": 0,
+        "cab": 0,
+        "carriage": 0
+    },
+    "cop": {
+        "sheriff": 0
+    },
+    "theme": {
+        "book": 0,
+        "literature": 0,
+        "text": 0,
+        "story": 0,
+        "article": 0,
+        "bible": 0,
+        "information": 0,
+        "essay": 0,
+        "topic": 0
+    },
+    "bias": {
+        "opinion": 0,
+        "belief": 0,
+        "idea": 0,
+        "choice": 0,
+        "value": 0,
+        "impression": 0,
+        "concept": 0,
+        "flower": 0,
+        "scheme": 0
+    },
+    "basket": {
+        "ball": 0,
+        "cannon": 0,
+        "costume": 0,
+        "glove": 0,
+        "gun": 0
+    },
+    "essay": {
+        "book": 0,
+        "literature": 0,
+        "text": 0,
+        "story": 0,
+        "article": 0,
+        "bible": 0,
+        "information": 0,
+        "theme": 0,
+        "topic": 0
+    },
+    "throat": {
+        "tongue": 0,
+        "nose": 0,
+        "muscle": 0,
+        "cheek": 0,
+        "mouth": 0,
+        "arm": 0,
+        "bone": 0
+    },
+    "battle": {
+        "conquest": 0,
+        "journey": 0,
+        "hymn": 0,
+        "trip": 0,
+        "bible": 0,
+        "straw": 0
+    },
+    "target": {
+        "arrow": 0
+    },
+    "film": {
+        "movie": 0
+    },
+    "abdomen": {
+        "belly": 0
+    },
+    "moon": {
+        "planet": 0
+    },
+    "huge": {
+        "large": 0,
+        "tiny": 0,
+        "dumb": 0,
+        "big": 0,
+        "flexible": 0,
+        "stupid": 0,
+        "dense": 0,
+        "foolish": 0,
+        "clever": 0
+    },
+    "expand": {
+        "grow": 0,
+        "shrink": 0,
+        "reduce": 0,
+        "disappear": 0,
+        "vanish": 0
+    },
+    "hard": {
+        "difficult": 0,
+        "tough": 0,
+        "dense": 0,
+        "simple": 0,
+        "easy": 0,
+        "sly": 0
+    },
+    "listen": {
+        "hear": 0,
+        "obey": 0,
+        "understand": 0,
+        "learn": 0,
+        "speak": 0,
+        "behave": 0,
+        "know": 0,
+        "forgive": 0
+    },
+    "side": {
+        "bottom": 0,
+        "top": 0
+    },
+    "hen": {
+        "bird": 0,
+        "turkey": 0,
+        "hawk": 0
+    },
+    "lip": {
+        "mouth": 0,
+        "hip": 0,
+        "tooth": 0,
+        "nose": 0,
+        "throat": 0
+    },
+    "angry": {
+        "violent": 0,
+        "happy": 0,
+        "cheerful": 0,
+        "glad": 0,
+        "young": 0,
+        "mad": 0
+    },
+    "comprehend": {
+        "know": 0,
+        "read": 0,
+        "satisfy": 0,
+        "understand": 0,
+        "believe": 0,
+        "forget": 0,
+        "give": 0,
+        "please": 0
+    },
+    "persuade": {
+        "argue": 0,
+        "pursue": 0,
+        "differ": 0,
+        "justify": 0,
+        "prove": 0,
+        "complain": 0,
+        "rationalize": 0,
+        "agree": 0,
+        "investigate": 0
+    },
+    "remind": {
+        "forget": 0,
+        "sell": 0,
+        "forgive": 0,
+        "ignore": 0,
+        "learn": 0,
+        "know": 0,
+        "retain": 0,
+        "borrow": 0,
+        "go": 0
+    },
+    "coffee": {
+        "bean": 0,
+        "rice": 0,
+        "bacon": 0,
+        "chicken": 0,
+        "boy": 0,
+        "meat": 0,
+        "breakfast": 0
+    },
+    "recent": {
+        "new": 0,
+        "fresh": 0,
+        "old": 0,
+        "ancient": 0,
+        "wide": 0
+    },
+    "guitar": {
+        "drum": 0,
+        "horn": 0,
+        "car": 0,
+        "cab": 0
+    },
+    "lunch": {
+        "sandwich": 0,
+        "meat": 0,
+        "steak": 0,
+        "bacon": 0,
+        "bread": 0
+    },
+    "marry": {
+        "engage": 0,
+        "join": 0,
+        "add": 0,
+        "attach": 0,
+        "participate": 0,
+        "cooperate": 0,
+        "acquire": 0
+    },
+    "verdict": {
+        "trial": 0
+    },
+    "reflection": {
+        "image": 0,
+        "idea": 0,
+        "scheme": 0,
+        "opinion": 0,
+        "belief": 0
+    },
+    "cooperate": {
+        "participate": 0,
+        "join": 0,
+        "say": 0,
+        "add": 0,
+        "attach": 0,
+        "marry": 0,
+        "acquire": 0
+    },
+    "bee": {
+        "insect": 0,
+        "queen": 0,
+        "ant": 0
+    },
+    "vehicle": {
+        "bus": 0,
+        "cab": 0,
+        "taxi": 0,
+        "car": 0
+    },
+    "bible": {
+        "hymn": 0,
+        "book": 0,
+        "conquest": 0,
+        "straw": 0,
+        "literature": 0,
+        "text": 0,
+        "story": 0,
+        "article": 0,
+        "information": 0
+    },
+    "potato": {
+        "butter": 0
+    },
+    "dentist": {
+        "orthodontist": 0,
+        "colonel": 0,
+        "doctor": 0,
+        "physician": 0,
+        "professor": 0,
+        "temper": 0
+    },
+    "frigid": {
+        "rough": 0,
+        "fragile": 0
+    },
+    "ancient": {
+        "modern": 0,
+        "new": 0,
+        "recent": 0,
+        "fresh": 0,
+        "old": 0
+    },
+    "guest": {
+        "friend": 0,
+        "buddy": 0,
+        "guy": 0,
+        "teacher": 0,
+        "mother": 0,
+        "companion": 0,
+        "stud": 0
+    },
+    "week": {
+        "weekend": 0
+    },
+    "hotel": {
+        "apartment": 0,
+        "house": 0,
+        "furniture": 0,
+        "barn": 0,
+        "key": 0,
+        "carpet": 0,
+        "bed": 0
+    },
+    "bottom": {
+        "side": 0,
+        "top": 0
+    },
+    "ice": {
+        "water": 0,
+        "salt": 0
+    },
+    "child": {
+        "boy": 0,
+        "girl": 0,
+        "man": 0,
+        "adult": 0,
+        "kid": 0,
+        "son": 0,
+        "brother": 0,
+        "soldier": 0,
+        "partner": 0,
+        "condition": 0
+    },
+    "argument": {
+        "discussion": 0,
+        "criticism": 0,
+        "agreement": 0,
+        "pact": 0,
+        "hole": 0
+    },
+    "champion": {
+        "winner": 0,
+        "goal": 0,
+        "candidate": 0,
+        "presence": 0,
+        "quest": 0,
+        "door": 0
+    },
+    "season": {
+        "winter": 0,
+        "summer": 0
+    },
+    "tree": {
+        "maple": 0,
+        "oak": 0
+    },
+    "plenty": {
+        "abundance": 0
+    },
+    "atmosphere": {
+        "pollution": 0,
+        "president": 0,
+        "politician": 0,
+        "mayor": 0,
+        "pupil": 0,
+        "camera": 0
+    },
+    "birthday": {
+        "date": 0,
+        "year": 0,
+        "calendar": 0
+    },
+    "cloth": {
+        "clothes": 0,
+        "fabric": 0,
+        "coat": 0,
+        "jacket": 0,
+        "closet": 0,
+        "drawer": 0,
+        "button": 0,
+        "linen": 0
+    },
+    "text": {
+        "book": 0,
+        "literature": 0,
+        "story": 0,
+        "article": 0,
+        "bible": 0,
+        "information": 0,
+        "essay": 0,
+        "theme": 0,
+        "topic": 0
+    },
+    "nurse": {
+        "scientist": 0
+    },
+    "monk": {
+        "priest": 0,
+        "god": 0,
+        "spirit": 0,
+        "father": 0,
+        "devil": 0,
+        "prey": 0
+    },
+    "crowd": {
+        "mob": 0,
+        "bunch": 0,
+        "parade": 0,
+        "band": 0
+    },
+    "deny": {
+        "accept": 0,
+        "give": 0,
+        "acknowledge": 0,
+        "believe": 0,
+        "forgive": 0,
+        "recommend": 0,
+        "deliver": 0,
+        "reject": 0,
+        "lend": 0,
+        "allow": 0
+    },
+    "right": {
+        "justice": 0
+    },
+    "colonel": {
+        "dentist": 0,
+        "orthodontist": 0,
+        "doctor": 0,
+        "physician": 0,
+        "professor": 0
+    },
+    "anarchy": {
+        "chaos": 0
+    },
+    "bag": {
+        "purse": 0
+    },
+    "vision": {
+        "perception": 0
+    },
+    "begin": {
+        "originate": 0,
+        "go": 0,
+        "quit": 0,
+        "discover": 0,
+        "leave": 0,
+        "enter": 0,
+        "send": 0,
+        "allow": 0,
+        "come": 0
+    },
+    "appear": {
+        "attend": 0,
+        "become": 0,
+        "leave": 0,
+        "come": 0,
+        "arrive": 0,
+        "gather": 0,
+        "send": 0,
+        "make": 0,
+        "accomplish": 0
+    },
+    "aunt": {
+        "uncle": 0,
+        "nephew": 0,
+        "cousin": 0,
+        "man": 0,
+        "husband": 0,
+        "father": 0
+    },
+    "definition": {
+        "dictionary": 0,
+        "word": 0,
+        "phrase": 0,
+        "literature": 0,
+        "page": 0,
+        "clue": 0,
+        "newspaper": 0
+    },
+    "men": {
+        "fraternity": 0,
+        "baseball": 0,
+        "door": 0,
+        "basketball": 0,
+        "couch": 0,
+        "doorway": 0,
+        "gate": 0,
+        "corridor": 0
+    },
+    "corporation": {
+        "business": 0,
+        "company": 0,
+        "industry": 0
+    },
+    "wagon": {
+        "carriage": 0,
+        "container": 0,
+        "car": 0,
+        "bottle": 0,
+        "mouse": 0,
+        "cab": 0
+    },
+    "movement": {
+        "activity": 0
+    },
+    "mood": {
+        "emotion": 0,
+        "anger": 0,
+        "passion": 0,
+        "fury": 0,
+        "frustration": 0
+    },
+    "date": {
+        "birthday": 0,
+        "calendar": 0,
+        "year": 0
+    },
+    "sugar": {
+        "honey": 0
+    },
+    "horse": {
+        "mare": 0,
+        "colt": 0,
+        "ox": 0,
+        "dog": 0,
+        "cat": 0
+    },
+    "anatomy": {
+        "biology": 0
+    },
+    "stud": {
+        "guy": 0,
+        "friend": 0,
+        "partner": 0,
+        "girl": 0,
+        "buddy": 0,
+        "guest": 0,
+        "teacher": 0,
+        "mother": 0
+    },
+    "lion": {
+        "cat": 0,
+        "pet": 0,
+        "rabbit": 0,
+        "dog": 0,
+        "mouse": 0,
+        "horse": 0
+    },
+    "chest": {
+        "body": 0,
+        "spine": 0,
+        "arm": 0,
+        "stomach": 0,
+        "nerve": 0,
+        "shoulder": 0,
+        "neck": 0
+    },
+    "club": {
+        "society": 0
+    },
+    "ankle": {
+        "bone": 0,
+        "elbow": 0,
+        "window": 0,
+        "jaw": 0,
+        "knee": 0,
+        "teeth": 0,
+        "arm": 0,
+        "muscle": 0,
+        "neck": 0
+    },
+    "timber": {
+        "log": 0,
+        "wood": 0,
+        "formula": 0,
+        "bath": 0,
+        "paper": 0,
+        "equation": 0,
+        "room": 0
+    },
+    "hurricane": {
+        "storm": 0,
+        "cloud": 0,
+        "snow": 0,
+        "haze": 0,
+        "mist": 0,
+        "fog": 0,
+        "weather": 0
+    },
+    "warrior": {
+        "man": 0,
+        "husband": 0,
+        "father": 0,
+        "child": 0,
+        "uncle": 0,
+        "woman": 0,
+        "sentry": 0,
+        "victor": 0,
+        "wife": 0
+    },
+    "chaos": {
+        "anarchy": 0
+    },
+    "water": {
+        "ice": 5,
+        "salt": 0
+    },
+    "long": {
+        "narrow": 0,
+        "short": 0,
+        "broad": 0,
+        "wide": 0,
+        "dirty": 0,
+        "big": 0
+    },
+    "professor": {
+        "doctor": 0,
+        "student": 0,
+        "physician": 0,
+        "orthodontist": 0,
+        "temper": 0,
+        "pupil": 0,
+        "dentist": 0
+    },
+    "cathedral": {
+        "ceiling": 0,
+        "roof": 0,
+        "floor": 0,
+        "deck": 0,
+        "door": 0
+    },
+    "south": {
+        "north": 0,
+        "west": 0
+    },
+    "hand": {
+        "foot": 0,
+        "wrist": 0,
+        "thumb": 0,
+        "nail": 0,
+        "head": 0,
+        "arm": 0
+    },
+    "belt": {
+        "loop": 0
+    },
+    "rare": {
+        "scarce": 0,
+        "exotic": 0,
+        "dumb": 0,
+        "stupid": 0,
+        "dense": 0,
+        "foolish": 0,
+        "clever": 0,
+        "intelligent": 0,
+        "smart": 0
+    },
+    "fail": {
+        "lose": 0,
+        "discourage": 0,
+        "succeed": 0,
+        "keep": 0,
+        "get": 0,
+        "encourage": 0,
+        "win": 0,
+        "achieve": 0,
+        "try": 0
+    },
+    "belief": {
+        "opinion": 0,
+        "value": 0,
+        "impression": 0,
+        "concept": 0,
+        "flower": 0,
+        "idea": 0,
+        "bias": 0,
+        "choice": 0
+    },
+    "whiskey": {
+        "alcohol": 0,
+        "gin": 0,
+        "champagne": 0,
+        "beer": 0,
+        "wine": 0,
+        "brandy": 0,
+        "cocktail": 0
+    },
+    "nose": {
+        "mouth": 0,
+        "throat": 0,
+        "lip": 0,
+        "tooth": 0,
+        "tongue": 0,
+        "hip": 0
+    },
+    "bath": {
+        "room": 0,
+        "trick": 0,
+        "wife": 0,
+        "balloon": 0,
+        "log": 0,
+        "cell": 0,
+        "bed": 0,
+        "game": 0,
+        "size": 0
+    },
+    "impatient": {
+        "anxious": 0,
+        "afraid": 0
+    },
+    "hat": {
+        "coat": 0,
+        "box": 0,
+        "clothes": 0,
+        "booth": 0,
+        "elevator": 0,
+        "cigar": 0,
+        "fabric": 0,
+        "cloth": 0
+    },
+    "island": {
+        "beach": 0,
+        "task": 0,
+        "princess": 0,
+        "seashore": 0,
+        "sea": 0,
+        "reef": 0,
+        "job": 0,
+        "assignment": 0,
+        "woman": 0,
+        "straw": 0
+    },
+    "vein": {
+        "vessel": 0,
+        "arm": 0,
+        "stomach": 0,
+        "choice": 0,
+        "shoulder": 0,
+        "body": 0,
+        "bone": 0,
+        "muscle": 0,
+        "wrist": 0
+    },
+    "multiply": {
+        "add": 0,
+        "divide": 0,
+        "join": 0,
+        "build": 0,
+        "attach": 0,
+        "participate": 0
+    },
+    "destruction": {
+        "construction": 0
+    },
+    "crucial": {
+        "important": 0,
+        "necessary": 0,
+        "essential": 0,
+        "unnecessary": 0
+    },
+    "cone": {
+        "cup": 0,
+        "jar": 0,
+        "spoon": 0,
+        "bottle": 0,
+        "container": 0
+    },
+    "writer": {
+        "composer": 0
+    },
+    "husband": {
+        "man": 0,
+        "wife": 0,
+        "father": 0,
+        "warrior": 0,
+        "child": 0,
+        "uncle": 0,
+        "woman": 0,
+        "sentry": 0,
+        "victor": 0
+    },
+    "brandy": {
+        "alcohol": 0,
+        "wine": 0,
+        "gin": 0,
+        "beer": 0,
+        "whiskey": 0,
+        "cocktail": 0,
+        "liquor": 0
+    },
+    "groom": {
+        "bride": 0,
+        "princess": 0,
+        "king": 0,
+        "island": 0,
+        "prince": 0
+    },
+    "imitate": {
+        "portray": 0,
+        "pretend": 0,
+        "decide": 0,
+        "notify": 0,
+        "imagine": 0,
+        "seem": 0,
+        "assume": 0,
+        "choose": 0
+    },
+    "inspect": {
+        "examine": 0,
+        "investigate": 0,
+        "pursue": 0
+    },
+    "tobacco": {
+        "cigarette": 0
+    },
+    "journal": {
+        "article": 0,
+        "book": 0,
+        "literature": 0,
+        "text": 0,
+        "story": 0,
+        "bible": 0,
+        "information": 0,
+        "essay": 0
+    },
+    "logic": {
+        "intelligence": 0,
+        "arithmetic": 0,
+        "wisdom": 0,
+        "insight": 0,
+        "skill": 0,
+        "ignorance": 0,
+        "rhythm": 0
+    },
+    "goal": {
+        "quest": 0,
+        "winner": 0,
+        "champion": 0,
+        "candidate": 0,
+        "presence": 0
+    },
+    "fast": {
+        "rapid": 0,
+        "quick": 0
+    },
+    "acknowledge": {
+        "accept": 0,
+        "notify": 0,
+        "speak": 0,
+        "believe": 0,
+        "forgive": 0,
+        "recommend": 0,
+        "deny": 0,
+        "deliver": 0,
+        "reject": 0,
+        "inform": 0
+    },
+    "bold": {
+        "proud": 0,
+        "strong": 0
+    },
+    "psychology": {
+        "science": 0
+    },
+    "dominate": {
+        "overcome": 0,
+        "win": 0,
+        "succeed": 0,
+        "accomplish": 0,
+        "achieve": 0,
+        "try": 0
+    },
+    "sunset": {
+        "evening": 0,
+        "sunrise": 0,
+        "dusk": 0
+    },
+    "princess": {
+        "king": 0,
+        "bride": 0,
+        "island": 0,
+        "prince": 0,
+        "groom": 0,
+        "beach": 0,
+        "task": 0
+    },
+    "flu": {
+        "fever": 0,
+        "illness": 0,
+        "infection": 0,
+        "disease": 0
+    },
+    "turkey": {
+        "bird": 0,
+        "hen": 0,
+        "hawk": 0
+    },
+    "apartment": {
+        "house": 0,
+        "hotel": 0,
+        "furniture": 0,
+        "barn": 0,
+        "key": 0,
+        "carpet": 0,
+        "bed": 0
+    },
+    "comfort": {
+        "safety": 0
+    },
+    "corner": {
+        "area": 0,
+        "region": 0,
+        "zone": 0
+    },
+    "deserve": {
+        "earn": 0,
+        "make": 0,
+        "create": 0,
+        "construct": 0,
+        "become": 0,
+        "destroy": 0,
+        "build": 0
+    },
+    "gather": {
+        "meet": 0,
+        "attend": 0,
+        "greet": 0,
+        "come": 0,
+        "appear": 0,
+        "arrive": 0,
+        "send": 0
+    },
+    "phrase": {
+        "word": 0,
+        "literature": 0,
+        "dictionary": 0,
+        "page": 0,
+        "clue": 0,
+        "newspaper": 0,
+        "book": 0,
+        "definition": 0
+    },
+    "modern": {
+        "ancient": 0,
+        "new": 0,
+        "recent": 0,
+        "fresh": 0,
+        "old": 0
+    },
+    "proud": {
+        "bold": 0,
+        "strong": 0
+    },
+    "fact": {
+        "proof": 0,
+        "insight": 0,
+        "intelligence": 0,
+        "wisdom": 0,
+        "logic": 0,
+        "skill": 0
+    },
+    "river": {
+        "stream": 0,
+        "sea": 0,
+        "valley": 0,
+        "ocean": 0,
+        "beach": 0,
+        "canyon": 0
+    },
+    "appoint": {
+        "elect": 0,
+        "choose": 0,
+        "decide": 0,
+        "want": 0,
+        "conclude": 0
+    },
+    "bar": {
+        "cage": 0,
+        "jail": 0,
+        "choice": 0,
+        "opinion": 0
+    },
+    "cottage": {
+        "cabin": 0,
+        "hut": 0,
+        "camp": 0,
+        "shelter": 0
+    },
+    "factory": {
+        "car": 0,
+        "cab": 0,
+        "carriage": 0,
+        "bicycle": 0,
+        "highway": 0,
+        "horn": 0,
+        "street": 0,
+        "boat": 0,
+        "gauge": 0,
+        "elevator": 0
+    },
+    "mad": {
+        "unhappy": 0,
+        "glad": 0,
+        "happy": 0,
+        "terrific": 0,
+        "cheerful": 0,
+        "young": 0,
+        "angry": 0
+    },
+    "fury": {
+        "anger": 0,
+        "frustration": 0,
+        "mood": 0,
+        "emotion": 0
+    },
+    "furniture": {
+        "bed": 0,
+        "apartment": 0,
+        "crib": 0,
+        "chair": 0,
+        "couch": 0,
+        "bedroom": 0,
+        "blanket": 0,
+        "room": 0,
+        "hospital": 0,
+        "house": 0
+    },
+    "chocolate": {
+        "pie": 0
+    },
+    "destroy": {
+        "kill": 0,
+        "make": 0,
+        "construct": 0,
+        "create": 0,
+        "choke": 0,
+        "hang": 0,
+        "defend": 0,
+        "earn": 0
+    },
+    "room": {
+        "cell": 0,
+        "bath": 0,
+        "bed": 0,
+        "trick": 0,
+        "wife": 0,
+        "balloon": 0,
+        "log": 0,
+        "crib": 0,
+        "furniture": 0
+    },
+    "passion": {
+        "emotion": 0,
+        "mood": 0,
+        "anger": 0,
+        "fury": 0,
+        "frustration": 0
+    },
+    "elbow": {
+        "bone": 0,
+        "ankle": 0,
+        "jaw": 0,
+        "knee": 0,
+        "teeth": 0,
+        "arm": 0,
+        "muscle": 0,
+        "neck": 0
+    },
+    "couch": {
+        "bed": 0,
+        "baseball": 0,
+        "crib": 0,
+        "furniture": 0,
+        "chair": 0,
+        "bedroom": 0,
+        "blanket": 0,
+        "room": 0,
+        "hospital": 0,
+        "basketball": 0
+    },
+    "garden": {
+        "hose": 0,
+        "car": 0,
+        "cab": 0,
+        "carriage": 0,
+        "bicycle": 0,
+        "highway": 0,
+        "factory": 0,
+        "horn": 0,
+        "street": 0
+    },
+    "class": {
+        "college": 0,
+        "profession": 0
+    },
+    "blade": {
+        "grass": 0,
+        "moss": 0,
+        "root": 0
+    },
+    "chemistry": {
+        "theory": 0
+    },
+    "short": {
+        "long": 0,
+        "narrow": 0,
+        "broad": 0,
+        "wide": 0,
+        "dirty": 0,
+        "big": 0
+    },
+    "try": {
+        "achieve": 0,
+        "succeed": 0,
+        "think": 0,
+        "accomplish": 0,
+        "win": 0,
+        "fail": 0,
+        "contemplate": 0
+    },
+    "son": {
+        "boy": 0,
+        "father": 0,
+        "brother": 0,
+        "kid": 0,
+        "child": 0,
+        "soldier": 0,
+        "partner": 0,
+        "condition": 0,
+        "rice": 0
+    },
+    "fence": {
+        "rail": 0
+    },
+    "seashore": {
+        "beach": 0,
+        "island": 0,
+        "sea": 0,
+        "reef": 0,
+        "task": 0,
+        "princess": 0,
+        "ocean": 0,
+        "river": 0
+    },
+    "moss": {
+        "grass": 0,
+        "blade": 0,
+        "root": 0
+    },
+    "thumb": {
+        "hand": 0,
+        "nail": 0,
+        "foot": 0,
+        "wrist": 0,
+        "head": 0
+    },
+    "send": {
+        "go": 0,
+        "bring": 0,
+        "attend": 0,
+        "receive": 0,
+        "leave": 0,
+        "begin": 0,
+        "enter": 0,
+        "allow": 0,
+        "come": 0,
+        "sell": 0
+    },
+    "construct": {
+        "make": 0,
+        "destroy": 0,
+        "create": 0,
+        "earn": 0,
+        "become": 0,
+        "kill": 0
+    },
+    "sauce": {
+        "apple": 0,
+        "lemon": 0,
+        "juice": 0,
+        "candy": 0,
+        "diet": 0,
+        "sunshine": 0,
+        "tea": 0,
+        "milk": 0
+    },
+    "cow": {
+        "cattle": 0,
+        "goat": 0,
+        "beef": 0,
+        "sheep": 0,
+        "lamb": 0
+    },
+    "money": {
+        "salary": 0,
+        "capital": 0,
+        "diamond": 0,
+        "pearl": 0,
+        "fee": 0
+    },
+    "choice": {
+        "opinion": 0,
+        "jail": 0,
+        "vein": 0,
+        "chapter": 0,
+        "belief": 0,
+        "idea": 0,
+        "bias": 0,
+        "bar": 0,
+        "vessel": 0
+    },
+    "balloon": {
+        "people": 0,
+        "bath": 0,
+        "population": 0,
+        "party": 0,
+        "gun": 0,
+        "cent": 0,
+        "dollar": 0,
+        "room": 0,
+        "trick": 0,
+        "wife": 0
+    },
+    "meet": {
+        "gather": 0,
+        "greet": 0,
+        "attend": 0,
+        "come": 0,
+        "appear": 0,
+        "arrive": 0
+    },
+    "argue": {
+        "persuade": 0,
+        "differ": 0,
+        "justify": 0,
+        "prove": 0,
+        "complain": 0,
+        "rationalize": 0,
+        "agree": 0,
+        "pursue": 0
+    },
+    "population": {
+        "people": 0,
+        "party": 0,
+        "gun": 0,
+        "cent": 0,
+        "balloon": 0,
+        "dollar": 0,
+        "cannon": 0,
+        "knife": 0
+    },
+    "telephone": {
+        "booth": 0,
+        "box": 0,
+        "elevator": 0,
+        "hat": 0,
+        "cigar": 0
+    },
+    "kill": {
+        "destroy": 0,
+        "choke": 0,
+        "hang": 0,
+        "defend": 0,
+        "make": 0,
+        "construct": 0,
+        "create": 0,
+        "breathe": 0
+    },
+    "shelter": {
+        "hut": 0,
+        "cabin": 0,
+        "cottage": 0,
+        "camp": 0
+    },
+    "cereal": {
+        "wheat": 0
+    },
+    "legion": {
+        "army": 0,
+        "navy": 0,
+        "squad": 0
+    },
+    "confusion": {
+        "hysteria": 0
+    },
+    "dense": {
+        "dumb": 0,
+        "hard": 0,
+        "stupid": 0,
+        "foolish": 0,
+        "clever": 0,
+        "intelligent": 0,
+        "smart": 0,
+        "rare": 0,
+        "huge": 0,
+        "difficult": 0
+    },
+    "clever": {
+        "sly": 0,
+        "dumb": 0,
+        "strange": 0,
+        "tough": 0,
+        "stupid": 0,
+        "dense": 0,
+        "foolish": 0,
+        "intelligent": 0
+    },
+    "forget": {
+        "forgive": 0,
+        "ignore": 0,
+        "learn": 0,
+        "know": 0,
+        "remind": 0,
+        "retain": 0,
+        "understand": 0,
+        "accept": 0,
+        "avoid": 0,
+        "leave": 0
+    },
+    "arrange": {
+        "organize": 0,
+        "require": 0,
+        "become": 0,
+        "disorganize": 0,
+        "inquire": 0,
+        "make": 0,
+        "appear": 0
+    },
+    "interest": {
+        "attention": 0,
+        "awareness": 0
+    },
+    "demon": {
+        "monster": 0
+    },
+    "top": {
+        "side": 0,
+        "bottom": 0
+    },
+    "lens": {
+        "camera": 0,
+        "worker": 0,
+        "president": 0,
+        "employer": 0,
+        "mechanic": 0,
+        "politician": 0,
+        "mayor": 0,
+        "pupil": 0
+    },
+    "organ": {
+        "kidney": 0,
+        "liver": 0,
+        "lung": 0
+    },
+    "code": {
+        "symbol": 0
+    },
+    "generous": {
+        "friendly": 0,
+        "nice": 0,
+        "cruel": 0,
+        "harsh": 0
+    },
+    "reject": {
+        "withdraw": 0,
+        "avoid": 0,
+        "accept": 0,
+        "absorb": 0,
+        "ignore": 0,
+        "acknowledge": 0,
+        "believe": 0,
+        "forgive": 0,
+        "recommend": 0
+    },
+    "hero": {
+        "heroine": 0
+    },
+    "planet": {
+        "moon": 0
+    },
+    "ledge": {
+        "mountain": 0
+    },
+    "nail": {
+        "thumb": 0,
+        "hand": 0,
+        "head": 0,
+        "foot": 0,
+        "wrist": 0,
+        "shoulder": 0
+    },
+    "summer": {
+        "winter": 0,
+        "season": 0
+    },
+    "notify": {
+        "inform": 0,
+        "acknowledge": 0,
+        "portray": 0,
+        "accept": 0,
+        "speak": 0,
+        "pretend": 0,
+        "imitate": 0,
+        "decide": 0
+    },
+    "competence": {
+        "capability": 0,
+        "ability": 0,
+        "strength": 0,
+        "might": 0,
+        "endurance": 0
+    },
+    "enjoy": {
+        "entertain": 0,
+        "please": 0,
+        "satisfy": 0,
+        "agree": 0,
+        "plead": 0
+    },
+    "mother": {
+        "guardian": 0,
+        "dad": 0,
+        "wife": 0,
+        "friend": 0,
+        "adult": 0,
+        "woman": 0,
+        "husband": 0,
+        "hole": 0
+    },
+    "hill": {
+        "cliff": 0,
+        "tail": 0,
+        "bowl": 0,
+        "chapter": 0,
+        "plate": 0,
+        "alley": 0
+    },
+    "queen": {
+        "bee": 0,
+        "insect": 0,
+        "ant": 0
+    },
+    "difficult": {
+        "hard": 0,
+        "simple": 0,
+        "easy": 0,
+        "tough": 0,
+        "dense": 0
+    },
+    "sofa": {
+        "chair": 0,
+        "bench": 0,
+        "bed": 0,
+        "crib": 0,
+        "furniture": 0,
+        "couch": 0,
+        "bedroom": 0
+    },
+    "essential": {
+        "necessary": 0,
+        "important": 0,
+        "unnecessary": 0,
+        "crucial": 0
+    },
+    "cell": {
+        "room": 0,
+        "bath": 0,
+        "bed": 0,
+        "trick": 0,
+        "wife": 0,
+        "balloon": 0,
+        "log": 0,
+        "crib": 0
+    },
+    "get": {
+        "acquire": 0,
+        "buy": 0,
+        "put": 0,
+        "remain": 0,
+        "lose": 0,
+        "obtain": 0,
+        "find": 0,
+        "join": 0,
+        "steal": 0
+    },
+    "examine": {
+        "inspect": 0,
+        "investigate": 0,
+        "pursue": 0,
+        "persuade": 0
+    },
+    "formula": {
+        "equation": 0,
+        "log": 0,
+        "timber": 0,
+        "wood": 0,
+        "bath": 0
+    },
+    "sunshine": {
+        "ray": 0,
+        "apple": 0,
+        "lemon": 0,
+        "juice": 0,
+        "candy": 0,
+        "sauce": 0,
+        "diet": 0
+    },
+    "girl": {
+        "child": 0,
+        "guy": 0,
+        "maid": 0,
+        "boy": 0,
+        "man": 0,
+        "adult": 0,
+        "stud": 0,
+        "friend": 0,
+        "partner": 0
+    },
+    "restless": {
+        "young": 0,
+        "happy": 0,
+        "cheerful": 0,
+        "glad": 0,
+        "angry": 0,
+        "mad": 0,
+        "delightful": 0
+    },
+    "cliff": {
+        "hill": 0,
+        "tail": 0,
+        "bowl": 0,
+        "chapter": 0,
+        "plate": 0,
+        "alley": 0
+    },
+    "clothes": {
+        "fabric": 0,
+        "cloth": 0,
+        "coat": 0,
+        "jacket": 0,
+        "closet": 0,
+        "drawer": 0,
+        "button": 0,
+        "linen": 0
+    },
+    "difficulty": {
+        "effort": 0
+    },
+    "meat": {
+        "steak": 0,
+        "bacon": 0,
+        "sandwich": 0,
+        "bread": 0,
+        "chicken": 0,
+        "breakfast": 0,
+        "bean": 0,
+        "lunch": 0
+    },
+    "colt": {
+        "horse": 0,
+        "mare": 0,
+        "ox": 0,
+        "dog": 0,
+        "cat": 0
+    },
+    "cord": {
+        "wire": 0
+    },
+    "big": {
+        "large": 0,
+        "broad": 0,
+        "heavy": 0,
+        "easy": 0,
+        "huge": 0,
+        "flexible": 0,
+        "narrow": 0,
+        "laden": 0
+    },
+    "sense": {
+        "intuition": 0
+    },
+    "discover": {
+        "explore": 0,
+        "realize": 0,
+        "originate": 0,
+        "ignore": 0,
+        "begin": 0
+    },
+    "agreement": {
+        "pact": 0,
+        "argument": 0,
+        "hole": 0,
+        "condition": 0,
+        "discussion": 0,
+        "criticism": 0,
+        "wife": 0
+    },
+    "explore": {
+        "discover": 0,
+        "ignore": 0,
+        "realize": 0,
+        "originate": 0,
+        "avoid": 0,
+        "leave": 0,
+        "forget": 0,
+        "ask": 0
+    },
+    "immoral": {
+        "bad": 0,
+        "illegal": 0,
+        "awful": 0,
+        "terrible": 0,
+        "guilty": 0,
+        "terrific": 0,
+        "great": 0
+    },
+    "spirit": {
+        "god": 0,
+        "priest": 0,
+        "father": 0,
+        "devil": 0,
+        "prey": 0,
+        "monk": 0,
+        "parent": 0,
+        "man": 0
+    },
+    "originate": {
+        "begin": 0,
+        "discover": 0,
+        "go": 0,
+        "quit": 0,
+        "explore": 0,
+        "realize": 0,
+        "leave": 0
+    },
+    "sick": {
+        "crazy": 0,
+        "insane": 0
+    },
+    "shoulder": {
+        "arm": 0,
+        "head": 0,
+        "body": 0,
+        "bone": 0,
+        "muscle": 0,
+        "vein": 0,
+        "wrist": 0,
+        "leg": 0,
+        "knee": 0
+    },
+    "salad": {
+        "diet": 0,
+        "vinegar": 0,
+        "apple": 0,
+        "lemon": 0,
+        "juice": 0,
+        "candy": 0,
+        "sauce": 0
+    },
+    "rapid": {
+        "quick": 0,
+        "fast": 0
+    },
+    "sea": {
+        "ocean": 0,
+        "river": 0,
+        "beach": 0,
+        "stream": 0,
+        "valley": 0,
+        "seashore": 0,
+        "island": 0,
+        "reef": 0
+    },
+    "mouse": {
+        "rat": 0,
+        "cat": 0,
+        "management": 0,
+        "deck": 0,
+        "container": 0,
+        "lion": 0,
+        "pet": 0,
+        "rabbit": 0,
+        "dog": 0
+    },
+    "attorney": {
+        "lawyer": 0,
+        "banker": 0
+    },
+    "polyester": {
+        "cotton": 0
+    },
+    "nice": {
+        "generous": 0,
+        "cruel": 0,
+        "friendly": 0,
+        "harsh": 0
+    },
+    "second": {
+        "minute": 0
+    },
+    "saint": {
+        "sinner": 0
+    },
+    "chapter": {
+        "choice": 0,
+        "night": 0,
+        "tail": 0,
+        "opinion": 0,
+        "jail": 0,
+        "vein": 0,
+        "dawn": 0,
+        "day": 0,
+        "bowl": 0
+    },
+    "boy": {
+        "kid": 0,
+        "son": 0,
+        "brother": 0,
+        "child": 0,
+        "soldier": 0,
+        "partner": 0,
+        "condition": 0,
+        "rice": 0,
+        "daughter": 0
+    },
+    "beach": {
+        "seashore": 0,
+        "island": 0,
+        "sea": 0,
+        "reef": 0,
+        "task": 0,
+        "princess": 0,
+        "ocean": 0,
+        "river": 0
+    },
+    "motel": {
+        "inn": 0
+    },
+    "organize": {
+        "arrange": 0,
+        "become": 0,
+        "disorganize": 0,
+        "require": 0,
+        "make": 0,
+        "appear": 0,
+        "accomplish": 0,
+        "seem": 0
+    },
+    "father": {
+        "parent": 0,
+        "man": 0,
+        "brother": 0,
+        "son": 0,
+        "god": 0,
+        "daughter": 0,
+        "adult": 0,
+        "husband": 0,
+        "warrior": 0
+    },
+    "soul": {
+        "brother": 0,
+        "boy": 0,
+        "father": 0,
+        "son": 0,
+        "kid": 0,
+        "child": 0,
+        "soldier": 0,
+        "partner": 0
+    },
+    "elastic": {
+        "flexible": 0,
+        "easy": 0,
+        "modest": 0,
+        "large": 0,
+        "simple": 0,
+        "big": 0,
+        "hard": 0,
+        "difficult": 0
+    },
+    "infection": {
+        "disease": 0,
+        "illness": 0,
+        "danger": 0,
+        "fever": 0,
+        "threat": 0
+    },
+    "announce": {
+        "declare": 0,
+        "proclaim": 0
+    },
+    "seed": {
+        "mustard": 0
+    },
+    "normal": {
+        "different": 0,
+        "weird": 0,
+        "odd": 0,
+        "strange": 0,
+        "bizarre": 0
+    },
+    "monster": {
+        "demon": 0
+    },
+    "champagne": {
+        "whiskey": 0,
+        "beer": 0,
+        "alcohol": 0,
+        "gin": 0,
+        "beverage": 0,
+        "wine": 0
+    },
+    "man": {
+        "husband": 0,
+        "father": 0,
+        "warrior": 0,
+        "child": 0,
+        "uncle": 0,
+        "woman": 0,
+        "sentry": 0,
+        "victor": 0,
+        "wife": 0,
+        "parent": 0
+    },
+    "camp": {
+        "cabin": 0,
+        "cottage": 0,
+        "hut": 0,
+        "shelter": 0
+    },
+    "poverty": {
+        "wealth": 0,
+        "prestige": 0,
+        "fame": 0
+    },
+    "captain": {
+        "sailor": 0
+    },
+    "scarce": {
+        "rare": 0,
+        "exotic": 0,
+        "dumb": 0,
+        "stupid": 0,
+        "dense": 0,
+        "foolish": 0,
+        "clever": 0,
+        "intelligent": 0
+    },
+    "haze": {
+        "cloud": 0,
+        "mist": 0,
+        "fog": 0,
+        "storm": 0,
+        "weather": 0,
+        "rain": 0,
+        "hurricane": 0
+    },
+    "cardboard": {
+        "paper": 0,
+        "wood": 0,
+        "log": 0,
+        "timber": 0,
+        "formula": 0
+    },
+    "classroom": {
+        "hallway": 0,
+        "corridor": 0,
+        "aisle": 0,
+        "door": 0,
+        "hall": 0
+    },
+    "area": {
+        "region": 3,
+        "zone": 0,
+        "corner": 0
+    },
+    "cigar": {
+        "pipe": 0,
+        "box": 0,
+        "booth": 0,
+        "elevator": 0,
+        "hat": 0,
+        "telephone": 0
+    },
+    "knife": {
+        "gun": 0,
+        "cannon": 0,
+        "dawn": 0,
+        "people": 0,
+        "trick": 0,
+        "fur": 0,
+        "ball": 0,
+        "day": 0
+    },
+    "palm": {
+        "finger": 0,
+        "toe": 0
+    },
+    "please": {
+        "satisfy": 0,
+        "entertain": 0,
+        "agree": 0,
+        "plead": 0,
+        "comprehend": 0,
+        "enjoy": 0,
+        "differ": 0,
+        "argue": 0
+    },
+    "entertain": {
+        "enjoy": 0,
+        "please": 0,
+        "satisfy": 0,
+        "agree": 0,
+        "plead": 0,
+        "comprehend": 0
+    },
+    "lamb": {
+        "sheep": 0,
+        "cattle": 0,
+        "cow": 0,
+        "beef": 0,
+        "goat": 0
+    },
+    "medium": {
+        "news": 0,
+        "gossip": 0
+    },
+    "orchestra": {
+        "band": 0,
+        "parade": 0,
+        "liquor": 0,
+        "endurance": 0,
+        "crowd": 0,
+        "wine": 0,
+        "century": 0
+    },
+    "divide": {
+        "add": 0,
+        "multiply": 0,
+        "join": 0,
+        "build": 0,
+        "attach": 0,
+        "participate": 0
+    },
+    "fur": {
+        "mink": 0,
+        "woman": 0,
+        "gun": 0,
+        "oil": 0,
+        "wife": 0,
+        "man": 0,
+        "secretary": 0,
+        "task": 0,
+        "cannon": 0
+    },
+    "mouth": {
+        "lip": 0,
+        "tooth": 0,
+        "nose": 0,
+        "hip": 0,
+        "throat": 0
+    },
+    "brick": {
+        "wall": 0,
+        "decoration": 0
+    },
+    "succeed": {
+        "win": 0,
+        "achieve": 0,
+        "try": 0,
+        "fail": 0,
+        "accomplish": 0,
+        "dominate": 0
+    },
+    "manner": {
+        "way": 0
+    },
+    "ox": {
+        "horse": 0,
+        "mare": 0,
+        "colt": 0,
+        "dog": 0,
+        "cat": 0
+    },
+    "hip": {
+        "lip": 0,
+        "mouth": 0,
+        "tooth": 0,
+        "nose": 0
+    },
+    "story": {
+        "book": 0,
+        "topic": 0,
+        "song": 0,
+        "literature": 0,
+        "text": 0,
+        "article": 0,
+        "bible": 0,
+        "information": 0,
+        "essay": 0,
+        "theme": 0
+    },
+    "loop": {
+        "belt": 0
+    },
+    "style": {
+        "fashion": 0,
+        "elegance": 0
+    },
+    "guy": {
+        "stud": 0,
+        "friend": 0,
+        "partner": 0,
+        "girl": 0,
+        "buddy": 0,
+        "guest": 0,
+        "teacher": 0,
+        "mother": 0
+    },
+    "cruel": {
+        "harsh": 0,
+        "nice": 0,
+        "generous": 0,
+        "friendly": 0
+    },
+    "depth": {
+        "magnitude": 0,
+        "size": 0,
+        "trick": 0,
+        "cent": 0,
+        "game": 0,
+        "bath": 0
+    },
+    "necessary": {
+        "essential": 0,
+        "important": 0,
+        "unnecessary": 0,
+        "crucial": 0
+    },
+    "intuition": {
+        "sense": 0
+    },
+    "physician": {
+        "doctor": 0,
+        "orthodontist": 0,
+        "professor": 0,
+        "temper": 0,
+        "dentist": 0,
+        "student": 0
+    },
+    "grass": {
+        "moss": 0,
+        "blade": 0,
+        "root": 0
+    },
+    "ignorance": {
+        "intelligence": 0,
+        "wisdom": 0,
+        "logic": 0,
+        "insight": 0,
+        "skill": 0,
+        "arithmetic": 0,
+        "fact": 0
+    },
+    "tea": {
+        "lemon": 0,
+        "apple": 0,
+        "juice": 0,
+        "candy": 0,
+        "sauce": 0,
+        "diet": 0,
+        "sunshine": 0
+    },
+    "game": {
+        "action": 0,
+        "fun": 0,
+        "trick": 0,
+        "course": 0,
+        "football": 0,
+        "bath": 0,
+        "size": 0,
+        "gun": 0
+    },
+    "accident": {
+        "catastrophe": 0,
+        "emergency": 0,
+        "death": 0,
+        "tragedy": 0,
+        "burial": 0
+    },
+    "disease": {
+        "infection": 0,
+        "danger": 0,
+        "illness": 0,
+        "threat": 0,
+        "fever": 0
+    },
+    "chief": {
+        "mayor": 0,
+        "president": 0,
+        "politician": 0,
+        "pupil": 0,
+        "pollution": 0,
+        "camera": 0
+    },
+    "crazy": {
+        "insane": 0,
+        "sick": 0
+    },
+    "insane": {
+        "crazy": 0,
+        "sick": 0
+    },
+    "west": {
+        "north": 0,
+        "south": 0
+    },
+    "gin": {
+        "alcohol": 0,
+        "whiskey": 0,
+        "beer": 0,
+        "wine": 0,
+        "brandy": 0,
+        "cocktail": 0,
+        "champagne": 0
+    },
+    "violation": {
+        "crime": 0,
+        "theft": 0,
+        "fraud": 0
+    },
+    "cradle": {
+        "crib": 0,
+        "bed": 0,
+        "furniture": 0,
+        "chair": 0,
+        "couch": 0,
+        "bedroom": 0,
+        "blanket": 0,
+        "room": 0
+    },
+    "gentleman": {
+        "lady": 0
+    },
+    "agony": {
+        "grief": 0
+    },
+    "join": {
+        "add": 0,
+        "attach": 0,
+        "participate": 0,
+        "marry": 0,
+        "cooperate": 0,
+        "acquire": 0,
+        "build": 0,
+        "multiply": 0,
+        "divide": 0
+    },
+    "kid": {
+        "boy": 0,
+        "daughter": 0,
+        "son": 0,
+        "brother": 0,
+        "child": 0,
+        "soldier": 0,
+        "partner": 0,
+        "condition": 0,
+        "rice": 0,
+        "baby": 0
+    },
+    "crime": {
+        "theft": 0,
+        "violation": 0,
+        "fraud": 0
+    },
+    "friendly": {
+        "generous": 0,
+        "nice": 0,
+        "cruel": 0,
+        "harsh": 0
+    },
+    "heart": {
+        "surgery": 0
+    },
+    "perception": {
+        "vision": 0
+    },
+    "imagine": {
+        "pretend": 0,
+        "create": 0,
+        "portray": 0,
+        "seem": 0,
+        "assume": 0,
+        "make": 0,
+        "build": 0,
+        "destroy": 0
+    },
+    "airport": {
+        "plane": 0,
+        "jet": 0
+    },
+    "pair": {
+        "couple": 0
+    },
+    "archbishop": {
+        "bishop": 0
+    },
+    "party": {
+        "people": 0,
+        "population": 0,
+        "gun": 0,
+        "cent": 0,
+        "balloon": 0,
+        "dollar": 0,
+        "cannon": 0,
+        "knife": 0
+    },
+    "gut": {
+        "nerve": 0,
+        "brain": 0,
+        "body": 0,
+        "spine": 0,
+        "chest": 0,
+        "arm": 0,
+        "stomach": 0
+    },
+    "waist": {
+        "stomach": 0,
+        "meal": 0,
+        "body": 0,
+        "vein": 0,
+        "course": 0,
+        "bedroom": 0,
+        "supper": 0,
+        "dinner": 0
+    },
+    "bird": {
+        "hawk": 0,
+        "hen": 0,
+        "turkey": 0
+    },
+    "storm": {
+        "hurricane": 0,
+        "cloud": 0,
+        "snow": 0,
+        "haze": 0,
+        "mist": 0,
+        "fog": 0,
+        "weather": 0
+    },
+    "smart": {
+        "intelligent": 0,
+        "dumb": 0,
+        "stupid": 0,
+        "dense": 0,
+        "foolish": 0,
+        "clever": 0,
+        "rare": 0
+    },
+    "manager": {
+        "leader": 0
+    },
+    "breakfast": {
+        "supper": 0,
+        "bacon": 0,
+        "dinner": 0,
+        "meal": 0,
+        "meat": 0,
+        "bean": 0,
+        "soup": 0
+    },
+    "universe": {
+        "sky": 0,
+        "sun": 0
+    },
+    "disorganize": {
+        "organize": 0,
+        "arrange": 0,
+        "become": 0,
+        "require": 0,
+        "make": 0,
+        "appear": 0,
+        "accomplish": 0,
+        "seem": 0
+    },
+    "wall": {
+        "brick": 0,
+        "decoration": 0
+    },
+    "pride": {
+        "joy": 0
+    },
+    "coat": {
+        "clothes": 0,
+        "hat": 0,
+        "fabric": 0,
+        "cloth": 0,
+        "jacket": 0,
+        "closet": 0,
+        "drawer": 0,
+        "button": 0,
+        "box": 0
+    },
+    "cabin": {
+        "cottage": 0,
+        "hut": 0,
+        "camp": 0,
+        "shelter": 0
+    },
+    "tail": {
+        "bowl": 0,
+        "chapter": 0,
+        "cliff": 0,
+        "plate": 0,
+        "alley": 0,
+        "choice": 0,
+        "night": 0,
+        "hill": 0
+    },
+    "might": {
+        "strength": 0,
+        "endurance": 0,
+        "capability": 0,
+        "band": 0,
+        "flower": 0,
+        "competence": 0
+    },
+    "victory": {
+        "triumph": 0
+    },
+    "important": {
+        "crucial": 0,
+        "necessary": 0,
+        "essential": 0,
+        "unnecessary": 0
+    },
+    "concept": {
+        "belief": 0,
+        "opinion": 0,
+        "value": 0,
+        "impression": 0,
+        "flower": 0,
+        "idea": 0,
+        "bias": 0,
+        "choice": 0
+    },
+    "take": {
+        "possess": 0,
+        "obtain": 0,
+        "steal": 0,
+        "carry": 0,
+        "receive": 0,
+        "deliver": 0,
+        "leave": 0,
+        "keep": 0,
+        "absorb": 0,
+        "acquire": 0
+    },
+    "tear": {
+        "eye": 0,
+        "brow": 0
+    },
+    "accept": {
+        "acknowledge": 0,
+        "believe": 0,
+        "forgive": 0,
+        "recommend": 0,
+        "deny": 0,
+        "deliver": 0,
+        "reject": 0,
+        "notify": 0,
+        "speak": 0
+    },
+    "compare": {
+        "analyze": 0,
+        "evaluate": 0,
+        "learn": 0,
+        "absorb": 0
+    },
+    "retain": {
+        "remain": 0,
+        "forget": 0,
+        "leave": 0,
+        "get": 0,
+        "forgive": 0,
+        "ignore": 0,
+        "learn": 0,
+        "know": 0,
+        "remind": 0
+    },
+    "button": {
+        "clothes": 0,
+        "fabric": 0,
+        "cloth": 0,
+        "coat": 0,
+        "jacket": 0,
+        "closet": 0,
+        "drawer": 0,
+        "linen": 0
+    },
+    "honest": {
+        "guilty": 0,
+        "ashamed": 0,
+        "bad": 0,
+        "modest": 0,
+        "awful": 0,
+        "terrible": 0,
+        "immoral": 0,
+        "terrific": 0
+    },
+    "participate": {
+        "join": 0,
+        "cooperate": 0,
+        "say": 0,
+        "add": 0,
+        "attach": 0,
+        "marry": 0,
+        "acquire": 0
+    },
+    "dawn": {
+        "day": 0,
+        "night": 0,
+        "gun": 0,
+        "morning": 0,
+        "chapter": 0,
+        "cannon": 0,
+        "knife": 0
+    },
+    "cent": {
+        "wife": 0,
+        "people": 0,
+        "size": 0,
+        "woman": 0,
+        "mother": 0,
+        "husband": 0,
+        "hole": 0,
+        "bath": 0,
+        "straw": 0,
+        "population": 0
+    },
+    "broad": {
+        "big": 0,
+        "narrow": 0,
+        "large": 0,
+        "heavy": 0,
+        "easy": 0,
+        "long": 0,
+        "wide": 0,
+        "dirty": 0
+    },
+    "priest": {
+        "monk": 0,
+        "god": 0,
+        "spirit": 0,
+        "father": 0,
+        "devil": 0,
+        "prey": 0
+    },
+    "weekend": {
+        "week": 0
+    },
+    "size": {
+        "magnitude": 0,
+        "trick": 0,
+        "cent": 0,
+        "depth": 0,
+        "game": 0,
+        "bath": 0,
+        "gun": 0,
+        "wife": 0,
+        "people": 0
+    },
+    "engagement": {
+        "appointment": 0
+    },
+    "curve": {
+        "angle": 0
+    },
+    "cigarette": {
+        "tobacco": 0
+    },
+    "trip": {
+        "journey": 0,
+        "conquest": 0,
+        "battle": 0,
+        "hymn": 0
+    },
+    "bell": {
+        "door": 0,
+        "tower": 0,
+        "doorway": 0,
+        "gate": 0,
+        "corridor": 0,
+        "window": 0,
+        "cellar": 0,
+        "floor": 0,
+        "kitchen": 0,
+        "fraternity": 0
+    },
+    "cheese": {
+        "bread": 0,
+        "flour": 0,
+        "meat": 0,
+        "steak": 0,
+        "bacon": 0,
+        "sandwich": 0
+    },
+    "weird": {
+        "odd": 0,
+        "strange": 0,
+        "normal": 0,
+        "bizarre": 0,
+        "sly": 0,
+        "different": 0
+    },
+    "beverage": {
+        "beer": 0,
+        "alcohol": 0,
+        "champagne": 0,
+        "gin": 0,
+        "wine": 0,
+        "whiskey": 0,
+        "brandy": 0,
+        "cocktail": 0
+    },
+    "body": {
+        "spine": 0,
+        "chest": 0,
+        "arm": 0,
+        "stomach": 0,
+        "nerve": 0,
+        "shoulder": 0,
+        "neck": 0
+    },
+    "cousin": {
+        "uncle": 0,
+        "aunt": 0,
+        "man": 0,
+        "nephew": 0,
+        "husband": 0,
+        "father": 0,
+        "warrior": 0,
+        "child": 0
+    },
+    "bicycle": {
+        "car": 0,
+        "bedroom": 0,
+        "cab": 0,
+        "carriage": 0,
+        "highway": 0,
+        "factory": 0,
+        "horn": 0,
+        "street": 0,
+        "boat": 0,
+        "gauge": 0
+    },
+    "minute": {
+        "second": 0
+    },
+    "cotton": {
+        "polyester": 0
+    },
+    "chapel": {
+        "steeple": 0
+    },
+    "proper": {
+        "formal": 0,
+        "polite": 0
+    },
+    "dirty": {
+        "cheap": 0,
+        "narrow": 0,
+        "inexpensive": 0,
+        "long": 0,
+        "broad": 0,
+        "wide": 0
+    },
+    "insect": {
+        "bee": 0,
+        "queen": 0,
+        "ant": 0
+    },
+    "deliver": {
+        "take": 0,
+        "carry": 0,
+        "accept": 0,
+        "possess": 0,
+        "obtain": 0,
+        "steal": 0,
+        "receive": 0,
+        "leave": 0,
+        "bring": 0
+    },
+    "card": {
+        "bridge": 0,
+        "car": 0,
+        "cab": 0,
+        "carriage": 0,
+        "bicycle": 0,
+        "highway": 0,
+        "factory": 0,
+        "horn": 0,
+        "street": 0
+    },
+    "bacon": {
+        "meat": 0,
+        "breakfast": 0,
+        "bean": 0,
+        "steak": 0,
+        "sandwich": 0,
+        "bread": 0,
+        "supper": 0,
+        "dinner": 0,
+        "coffee": 0
+    },
+    "wife": {
+        "woman": 0,
+        "mother": 0,
+        "husband": 0,
+        "hole": 0,
+        "cent": 0,
+        "bath": 0,
+        "straw": 0,
+        "man": 0,
+        "secretary": 0,
+        "task": 0
+    },
+    "inform": {
+        "notify": 0,
+        "acknowledge": 0,
+        "portray": 0,
+        "accept": 0,
+        "speak": 0,
+        "pretend": 0,
+        "imitate": 0,
+        "decide": 0
+    },
+    "lend": {
+        "give": 0,
+        "owe": 0,
+        "allow": 0,
+        "put": 0,
+        "borrow": 0,
+        "receive": 0,
+        "deny": 0,
+        "keep": 0,
+        "know": 0,
+        "steal": 0
+    },
+    "finger": {
+        "toe": 0,
+        "palm": 0
+    },
+    "flight": {
+        "aviation": 0
+    },
+    "hut": {
+        "cabin": 0,
+        "shelter": 0,
+        "cottage": 0,
+        "camp": 0
+    },
+    "spoon": {
+        "cup": 0,
+        "jar": 0,
+        "cone": 0,
+        "bottle": 0,
+        "container": 0
+    },
+    "image": {
+        "reflection": 0,
+        "idea": 0,
+        "scheme": 0,
+        "opinion": 0,
+        "belief": 0
+    },
+    "mountain": {
+        "ledge": 0
+    },
+    "action": {
+        "course": 0,
+        "game": 0,
+        "stomach": 0,
+        "fun": 0,
+        "trick": 0,
+        "waist": 0,
+        "body": 0
+    },
+    "decide": {
+        "choose": 0,
+        "conclude": 0,
+        "think": 0,
+        "portray": 0,
+        "elect": 0,
+        "want": 0,
+        "contemplate": 0,
+        "rationalize": 0
+    },
+    "wander": {
+        "roam": 0,
+        "leave": 0,
+        "go": 0,
+        "ignore": 0,
+        "remain": 0,
+        "take": 0,
+        "arrive": 0,
+        "appear": 0,
+        "enter": 0
+    },
+    "newspaper": {
+        "information": 0,
+        "word": 0,
+        "book": 0,
+        "phrase": 0,
+        "literature": 0,
+        "dictionary": 0,
+        "page": 0,
+        "clue": 0
+    },
+    "buddy": {
+        "friend": 0,
+        "companion": 0,
+        "guest": 0,
+        "guy": 0,
+        "teacher": 0,
+        "mother": 0,
+        "lover": 0
+    },
+    "dusk": {
+        "evening": 0,
+        "sunset": 0,
+        "sunrise": 0
+    },
+    "guardian": {
+        "adult": 0,
+        "mother": 0,
+        "parent": 0,
+        "child": 0,
+        "baby": 0,
+        "dad": 0,
+        "wife": 0,
+        "friend": 0
+    },
+    "suds": {
+        "bubble": 0
+    },
+    "blood": {
+        "flesh": 0,
+        "marrow": 0
+    },
+    "helium": {
+        "air": 0,
+        "molecule": 0,
+        "atom": 0,
+        "carbon": 0
+    },
+    "hear": {
+        "listen": 0,
+        "speak": 0,
+        "obey": 0,
+        "understand": 0,
+        "learn": 0,
+        "acknowledge": 0,
+        "behave": 0
+    },
+    "cat": {
+        "lion": 0,
+        "pet": 0,
+        "rabbit": 0,
+        "dog": 0,
+        "mouse": 0,
+        "horse": 0,
+        "rat": 0
+    },
+    "confidence": {
+        "attitude": 0,
+        "self": 0
+    },
+    "zone": {
+        "area": 0,
+        "region": 0,
+        "corner": 0
+    },
+    "scheme": {
+        "idea": 0,
+        "opinion": 0,
+        "image": 0,
+        "belief": 0,
+        "bias": 0,
+        "choice": 0,
+        "reflection": 0
+    },
+    "stomach": {
+        "waist": 0,
+        "body": 0,
+        "vein": 0,
+        "course": 0,
+        "bedroom": 0,
+        "meal": 0,
+        "spine": 0,
+        "chest": 0,
+        "arm": 0
+    },
+    "maid": {
+        "helper": 0,
+        "girl": 0,
+        "teacher": 0,
+        "child": 0,
+        "guy": 0,
+        "instructor": 0,
+        "rabbi": 0
+    },
+    "friend": {
+        "buddy": 0,
+        "guest": 0,
+        "guy": 0,
+        "teacher": 0,
+        "mother": 0,
+        "companion": 0,
+        "stud": 0,
+        "partner": 0
+    },
+    "danger": {
+        "threat": 0,
+        "disease": 0,
+        "infection": 0,
+        "illness": 0
+    },
+    "head": {
+        "shoulder": 0,
+        "nail": 0,
+        "foot": 0,
+        "arm": 0,
+        "body": 0,
+        "thumb": 0,
+        "hand": 0
+    },
+    "mist": {
+        "cloud": 0,
+        "rain": 0,
+        "haze": 0,
+        "fog": 0,
+        "storm": 0,
+        "weather": 0,
+        "drizzle": 0
+    },
+    "triumph": {
+        "victory": 0
+    },
+    "sinner": {
+        "saint": 0
+    },
+    "vitamin": {
+        "iron": 0
+    },
+    "rain": {
+        "drizzle": 0,
+        "mist": 0,
+        "cloud": 0,
+        "haze": 0,
+        "fog": 0,
+        "storm": 0
+    },
+    "breathe": {
+        "choke": 0,
+        "kill": 0,
+        "destroy": 0,
+        "hang": 0,
+        "defend": 0,
+        "make": 0,
+        "construct": 0
+    },
+    "coast": {
+        "shore": 0
+    },
+    "learn": {
+        "absorb": 0,
+        "evaluate": 0,
+        "listen": 0,
+        "forget": 0,
+        "possess": 0,
+        "withdraw": 0,
+        "analyze": 0,
+        "hear": 0,
+        "obey": 0
+    },
+    "enter": {
+        "go": 0,
+        "leave": 0,
+        "owe": 0,
+        "begin": 0,
+        "send": 0,
+        "allow": 0,
+        "come": 0,
+        "sell": 0
+    },
+    "accomplish": {
+        "achieve": 0,
+        "win": 0,
+        "become": 0,
+        "succeed": 0,
+        "try": 0,
+        "dominate": 0,
+        "make": 0,
+        "appear": 0
+    },
+    "income": {
+        "tax": 0
+    },
+    "advise": {
+        "recommend": 0,
+        "accept": 0,
+        "acknowledge": 0,
+        "believe": 0,
+        "forgive": 0,
+        "deny": 0,
+        "deliver": 0,
+        "reject": 0
+    },
+    "violent": {
+        "angry": 0,
+        "happy": 0,
+        "cheerful": 0,
+        "glad": 0,
+        "young": 0,
+        "mad": 0
+    },
+    "dog": {
+        "horse": 0,
+        "cat": 0,
+        "mare": 0,
+        "colt": 0,
+        "ox": 0,
+        "lion": 0,
+        "pet": 0,
+        "rabbit": 0,
+        "mouse": 0
+    },
+    "terrible": {
+        "bad": 0,
+        "sad": 0,
+        "awful": 0,
+        "immoral": 0,
+        "guilty": 0,
+        "terrific": 0,
+        "great": 0,
+        "funny": 0
+    },
+    "sheep": {
+        "lamb": 0,
+        "cattle": 0,
+        "cow": 0,
+        "beef": 0,
+        "goat": 0
+    },
+    "discuss": {
+        "explain": 0,
+        "clarify": 0,
+        "prove": 0,
+        "argue": 0
+    },
+    "actor": {
+        "actress": 0,
+        "singer": 0
+    },
+    "house": {
+        "apartment": 0,
+        "barn": 0,
+        "key": 0,
+        "carpet": 0,
+        "hotel": 0,
+        "furniture": 0
+    },
+    "odd": {
+        "weird": 0,
+        "strange": 0,
+        "normal": 0,
+        "bizarre": 0,
+        "sly": 0
+    },
+    "fun": {
+        "game": 0,
+        "football": 0,
+        "action": 0,
+        "trick": 0,
+        "course": 0
+    },
+    "theory": {
+        "chemistry": 0
+    },
+    "highway": {
+        "car": 0,
+        "task": 0,
+        "cab": 0,
+        "carriage": 0,
+        "bicycle": 0,
+        "factory": 0,
+        "horn": 0,
+        "street": 0,
+        "boat": 0,
+        "gauge": 0
+    },
+    "forgive": {
+        "understand": 0,
+        "forget": 0,
+        "accept": 0,
+        "know": 0,
+        "listen": 0,
+        "ignore": 0,
+        "learn": 0,
+        "remind": 0
+    },
+    "conclude": {
+        "decide": 0,
+        "choose": 0,
+        "think": 0,
+        "portray": 0,
+        "elect": 0,
+        "want": 0,
+        "contemplate": 0,
+        "rationalize": 0
+    },
+    "meter": {
+        "yard": 0,
+        "inch": 0
+    },
+    "fox": {
+        "hound": 0
+    },
+    "defend": {
+        "protect": 0,
+        "kill": 0,
+        "save": 0,
+        "keep": 0,
+        "destroy": 0,
+        "choke": 0,
+        "hang": 0
+    },
+    "tragedy": {
+        "death": 0,
+        "burial": 0,
+        "catastrophe": 0,
+        "accident": 0
+    },
+    "rattle": {
+        "noise": 0,
+        "racket": 0
+    },
+    "cheerful": {
+        "happy": 0,
+        "delightful": 0,
+        "glad": 0,
+        "young": 0,
+        "angry": 0,
+        "mad": 0,
+        "wonderful": 0
+    },
+    "society": {
+        "club": 0
+    },
+    "cocktail": {
+        "alcohol": 0,
+        "gin": 0,
+        "beer": 0,
+        "wine": 0,
+        "whiskey": 0,
+        "brandy": 0,
+        "beverage": 0
+    },
+    "borrow": {
+        "beg": 0,
+        "keep": 0,
+        "give": 0,
+        "want": 0,
+        "sell": 0,
+        "plead": 0,
+        "ask": 0,
+        "possess": 0,
+        "protect": 0,
+        "cherish": 0
+    },
+    "old": {
+        "new": 0,
+        "fresh": 0,
+        "recent": 0,
+        "ancient": 0,
+        "wide": 0
+    },
+    "earn": {
+        "make": 0,
+        "deserve": 0,
+        "create": 0,
+        "construct": 0,
+        "become": 0,
+        "destroy": 0,
+        "build": 0,
+        "imagine": 0
+    },
+    "afraid": {
+        "anxious": 0,
+        "impatient": 0
+    },
+    "baby": {
+        "daughter": 0,
+        "adult": 0,
+        "kid": 0,
+        "father": 0,
+        "guardian": 0,
+        "parent": 0,
+        "child": 0
+    },
+    "letter": {
+        "paragraph": 0,
+        "page": 0,
+        "word": 0,
+        "phrase": 0
+    },
+    "fresh": {
+        "new": 0,
+        "old": 0,
+        "wide": 0,
+        "recent": 0,
+        "ancient": 0,
+        "narrow": 0
+    },
+    "parent": {
+        "father": 0,
+        "adult": 0,
+        "man": 0,
+        "brother": 0,
+        "son": 0,
+        "god": 0,
+        "daughter": 0,
+        "guardian": 0,
+        "child": 0
+    },
+    "despair": {
+        "misery": 0
+    },
+    "dirt": {
+        "mud": 0
+    },
+    "intelligent": {
+        "smart": 0,
+        "dumb": 0,
+        "stupid": 0,
+        "dense": 0,
+        "foolish": 0,
+        "clever": 0,
+        "rare": 0
+    },
+    "school": {
+        "grade": 0,
+        "law": 0
+    },
+    "fragile": {
+        "frigid": 0,
+        "rough": 0
+    },
+    "diamond": {
+        "money": 0,
+        "salary": 0,
+        "capital": 0,
+        "pearl": 0,
+        "fee": 0
+    },
+    "language": {
+        "communication": 0,
+        "conversation": 0,
+        "television": 0
+    },
+    "say": {
+        "verify": 0,
+        "participate": 0,
+        "justify": 0,
+        "join": 0,
+        "cooperate": 0,
+        "argue": 0
+    },
+    "arrive": {
+        "come": 0,
+        "attend": 0,
+        "leave": 0,
+        "go": 0,
+        "bring": 0,
+        "appear": 0,
+        "gather": 0
+    },
+    "roof": {
+        "ceiling": 0,
+        "floor": 0,
+        "cathedral": 0,
+        "deck": 0,
+        "door": 0
+    },
+    "rhythm": {
+        "melody": 0,
+        "arithmetic": 0,
+        "music": 0,
+        "logic": 0,
+        "intelligence": 0
+    },
+    "fantasy": {
+        "reality": 0,
+        "illusion": 0
+    },
+    "animal": {
+        "beast": 0,
+        "person": 0
+    },
+    "sunrise": {
+        "sunset": 0,
+        "evening": 0,
+        "dusk": 0
+    },
+    "reef": {
+        "beach": 0,
+        "seashore": 0,
+        "island": 0,
+        "sea": 0,
+        "task": 0,
+        "princess": 0,
+        "ocean": 0,
+        "river": 0
+    },
+    "root": {
+        "grass": 0,
+        "moss": 0,
+        "blade": 0
+    },
+    "brain": {
+        "nerve": 0,
+        "gut": 0,
+        "body": 0,
+        "spine": 0,
+        "chest": 0,
+        "arm": 0,
+        "stomach": 0
+    },
+    "log": {
+        "timber": 0,
+        "wood": 0,
+        "formula": 0,
+        "bath": 0,
+        "paper": 0,
+        "equation": 0,
+        "room": 0,
+        "trick": 0
+    },
+    "flexible": {
+        "elastic": 0,
+        "easy": 0,
+        "modest": 0,
+        "large": 0,
+        "simple": 0,
+        "big": 0,
+        "hard": 0,
+        "difficult": 0,
+        "tough": 0
+    },
+    "attitude": {
+        "confidence": 0,
+        "self": 0
+    },
+    "read": {
+        "comprehend": 0,
+        "know": 0,
+        "satisfy": 0,
+        "understand": 0,
+        "believe": 0,
+        "forget": 0,
+        "give": 0,
+        "please": 0
+    },
+    "floor": {
+        "deck": 0,
+        "roof": 0,
+        "ceiling": 0,
+        "door": 0,
+        "boat": 0,
+        "mouse": 0,
+        "cathedral": 0
+    },
+    "communication": {
+        "conversation": 0,
+        "language": 0,
+        "television": 0
+    },
+    "magnitude": {
+        "size": 0,
+        "depth": 0,
+        "trick": 0,
+        "cent": 0,
+        "game": 0,
+        "bath": 0
+    },
+    "absence": {
+        "presence": 0,
+        "winner": 0,
+        "door": 0,
+        "champion": 0,
+        "goal": 0,
+        "candidate": 0,
+        "doorway": 0,
+        "gate": 0,
+        "corridor": 0
+    },
+    "celebration": {
+        "ceremony": 0
+    },
+    "different": {
+        "normal": 0,
+        "weird": 0,
+        "odd": 0,
+        "strange": 0
+    },
+    "fabric": {
+        "linen": 0,
+        "clothes": 0,
+        "cloth": 0,
+        "coat": 0,
+        "jacket": 0,
+        "closet": 0,
+        "drawer": 0,
+        "button": 0
+    },
+    "contemplate": {
+        "think": 0,
+        "rationalize": 0,
+        "decide": 0,
+        "inquire": 0,
+        "try": 0,
+        "argue": 0,
+        "choose": 0,
+        "conclude": 0
+    },
+    "abundance": {
+        "plenty": 0
+    },
+    "wrist": {
+        "hand": 0,
+        "arm": 0,
+        "foot": 0,
+        "thumb": 0,
+        "nail": 0,
+        "shoulder": 0,
+        "body": 0,
+        "bone": 0,
+        "muscle": 0,
+        "vein": 0
+    },
+    "molecule": {
+        "atom": 0,
+        "air": 0,
+        "carbon": 0,
+        "helium": 0
+    },
+    "assignment": {
+        "task": 0,
+        "job": 0,
+        "woman": 0,
+        "straw": 0,
+        "highway": 0,
+        "island": 0,
+        "management": 0,
+        "wife": 0
+    },
+    "situation": {
+        "circumstance": 0,
+        "condition": 0,
+        "pact": 0,
+        "boy": 0,
+        "agreement": 0
+    },
+    "occur": {
+        "happen": 0,
+        "do": 0,
+        "quit": 0,
+        "begin": 0
+    },
+    "funny": {
+        "sad": 0,
+        "dull": 0,
+        "terrible": 0,
+        "dreary": 0,
+        "sharp": 0,
+        "bad": 0
+    },
+    "candy": {
+        "apple": 0,
+        "lemon": 0,
+        "juice": 0,
+        "sauce": 0,
+        "diet": 0,
+        "sunshine": 0,
+        "tea": 0,
+        "milk": 0
+    },
+    "sharp": {
+        "dull": 0,
+        "dreary": 0,
+        "funny": 0,
+        "sad": 0
+    },
+    "appointment": {
+        "engagement": 0
+    },
+    "goat": {
+        "cow": 0,
+        "cattle": 0,
+        "beef": 0,
+        "sheep": 0,
+        "lamb": 0
+    },
+    "decoration": {
+        "wall": 0,
+        "brick": 0
+    },
+    "window": {
+        "door": 0,
+        "ankle": 0,
+        "doorway": 0,
+        "gate": 0,
+        "corridor": 0,
+        "bell": 0,
+        "cellar": 0,
+        "floor": 0,
+        "kitchen": 0,
+        "fraternity": 0
+    },
+    "hall": {
+        "aisle": 0,
+        "hallway": 0,
+        "corridor": 0,
+        "classroom": 0,
+        "door": 0
+    },
+    "jail": {
+        "bar": 0,
+        "choice": 0,
+        "cage": 0,
+        "opinion": 0,
+        "vein": 0,
+        "chapter": 0
+    },
+    "shrink": {
+        "reduce": 0,
+        "disappear": 0,
+        "grow": 0,
+        "vanish": 0,
+        "find": 0,
+        "expand": 0
+    },
+    "bring": {
+        "carry": 0,
+        "send": 0,
+        "restore": 0,
+        "come": 0,
+        "complain": 0,
+        "take": 0,
+        "deliver": 0,
+        "go": 0,
+        "attend": 0
+    },
+    "god": {
+        "spirit": 0,
+        "priest": 0,
+        "father": 0,
+        "devil": 0,
+        "prey": 0,
+        "monk": 0,
+        "parent": 0,
+        "man": 0,
+        "brother": 0
+    },
+    "engage": {
+        "marry": 0,
+        "join": 0,
+        "add": 0,
+        "attach": 0,
+        "participate": 0,
+        "cooperate": 0,
+        "acquire": 0
+    },
+    "tax": {
+        "income": 0
+    },
+    "muscle": {
+        "tongue": 0,
+        "arm": 0,
+        "bone": 0,
+        "cheek": 0,
+        "throat": 0,
+        "shoulder": 0,
+        "body": 0,
+        "vein": 0
+    },
+    "bunch": {
+        "crowd": 0,
+        "mob": 0,
+        "parade": 0,
+        "band": 0
+    },
+    "harsh": {
+        "cruel": 0,
+        "nice": 0,
+        "generous": 0,
+        "friendly": 0
+    },
+    "army": {
+        "navy": 0,
+        "legion": 0,
+        "squad": 0
+    },
+    "obvious": {
+        "noticeable": 0,
+        "apparent": 0
+    },
+    "plate": {
+        "bowl": 0,
+        "alley": 0,
+        "tail": 0,
+        "street": 0,
+        "chapter": 0,
+        "cliff": 0
+    },
+    "employee": {
+        "employer": 0,
+        "worker": 0,
+        "mechanic": 0,
+        "camera": 0,
+        "lens": 0
+    },
+    "complain": {
+        "argue": 0,
+        "bring": 0,
+        "persuade": 0,
+        "differ": 0,
+        "justify": 0,
+        "prove": 0,
+        "rationalize": 0,
+        "agree": 0,
+        "carry": 0,
+        "send": 0
+    },
+    "costume": {
+        "ball": 0,
+        "cannon": 0,
+        "glove": 0,
+        "basket": 0,
+        "gun": 0
+    },
+    "purse": {
+        "bag": 0
+    },
+    "new": {
+        "recent": 0,
+        "fresh": 0,
+        "old": 0,
+        "ancient": 0,
+        "wide": 0,
+        "modern": 0
+    },
+    "fashion": {
+        "style": 0,
+        "elegance": 0
+    },
+    "temper": {
+        "doctor": 0,
+        "physician": 0,
+        "orthodontist": 0,
+        "professor": 0,
+        "dentist": 0,
+        "student": 0
+    },
+    "page": {
+        "paragraph": 0,
+        "word": 0,
+        "letter": 0,
+        "phrase": 0,
+        "literature": 0,
+        "dictionary": 0,
+        "clue": 0,
+        "newspaper": 0
+    },
+    "company": {
+        "business": 0,
+        "corporation": 0,
+        "industry": 0
+    },
+    "tough": {
+        "hard": 0,
+        "sly": 0,
+        "easy": 0,
+        "difficult": 0,
+        "dense": 0,
+        "simple": 0,
+        "clever": 0,
+        "strange": 0
+    },
+    "biology": {
+        "anatomy": 0
+    },
+    "protect": {
+        "defend": 0,
+        "save": 0,
+        "keep": 0,
+        "kill": 0,
+        "collect": 0,
+        "spend": 0,
+        "possess": 0,
+        "cherish": 0
+    },
+    "ceiling": {
+        "roof": 0,
+        "cathedral": 0,
+        "floor": 0,
+        "deck": 0,
+        "door": 0
+    },
+    "barn": {
+        "house": 0,
+        "apartment": 0,
+        "key": 0,
+        "carpet": 0,
+        "hotel": 0,
+        "furniture": 0
+    },
+    "justice": {
+        "right": 0
+    },
+    "withdraw": {
+        "reject": 0,
+        "absorb": 0,
+        "avoid": 0,
+        "accept": 0,
+        "learn": 0,
+        "possess": 0,
+        "ignore": 0
+    },
+    "toe": {
+        "finger": 0,
+        "palm": 0
+    },
+    "elevator": {
+        "box": 0,
+        "car": 0,
+        "booth": 0,
+        "hat": 0,
+        "cigar": 0,
+        "cab": 0,
+        "carriage": 0,
+        "bicycle": 0,
+        "highway": 0,
+        "factory": 0
+    },
+    "closet": {
+        "clothes": 0,
+        "fabric": 0,
+        "cloth": 0,
+        "coat": 0,
+        "jacket": 0,
+        "drawer": 0,
+        "button": 0,
+        "linen": 0
+    },
+    "greet": {
+        "meet": 0,
+        "gather": 0,
+        "attend": 0,
+        "come": 0,
+        "appear": 0,
+        "arrive": 0
+    },
+    "bizarre": {
+        "strange": 0,
+        "odd": 0,
+        "weird": 0,
+        "sly": 0
+    },
+    "liquor": {
+        "wine": 0,
+        "band": 0,
+        "century": 0,
+        "alcohol": 0,
+        "brandy": 0,
+        "orchestra": 0,
+        "parade": 0,
+        "endurance": 0,
+        "decade": 0
+    },
+    "doorway": {
+        "exit": 0,
+        "door": 0,
+        "gate": 0,
+        "corridor": 0,
+        "window": 0,
+        "bell": 0,
+        "cellar": 0,
+        "floor": 0,
+        "kitchen": 0
+    },
+    "menu": {
+        "order": 0
+    },
+    "bread": {
+        "flour": 0,
+        "cheese": 0,
+        "meat": 0,
+        "steak": 0,
+        "bacon": 0,
+        "sandwich": 0
+    },
+    "catastrophe": {
+        "accident": 0,
+        "death": 0,
+        "emergency": 0,
+        "tragedy": 0,
+        "burial": 0
+    },
+    "illusion": {
+        "reality": 0,
+        "fantasy": 0
+    },
+    "do": {
+        "happen": 0,
+        "quit": 0,
+        "occur": 0,
+        "begin": 0,
+        "originate": 0,
+        "go": 0
+    },
+    "leg": {
+        "limb": 0,
+        "arm": 0,
+        "shoulder": 0,
+        "body": 0,
+        "bone": 0,
+        "muscle": 0,
+        "vein": 0,
+        "wrist": 0,
+        "knee": 0
+    },
+    "shore": {
+        "coast": 0
+    },
+    "companion": {
+        "buddy": 0,
+        "lover": 0,
+        "friend": 0,
+        "guest": 0,
+        "guy": 0,
+        "teacher": 0,
+        "mother": 0
+    },
+    "lover": {
+        "companion": 0,
+        "buddy": 0,
+        "friend": 0,
+        "guest": 0,
+        "guy": 0,
+        "teacher": 0,
+        "mother": 0
+    },
+    "valley": {
+        "canyon": 0,
+        "river": 0,
+        "stream": 0,
+        "sea": 0,
+        "ocean": 0
+    },
+    "choke": {
+        "kill": 0,
+        "breathe": 0,
+        "destroy": 0,
+        "hang": 0,
+        "defend": 0,
+        "make": 0,
+        "construct": 0,
+        "create": 0
+    },
+    "want": {
+        "choose": 0,
+        "borrow": 0,
+        "decide": 0,
+        "elect": 0,
+        "beg": 0,
+        "keep": 0,
+        "give": 0,
+        "sell": 0
+    },
+    "safety": {
+        "comfort": 0
+    },
+    "teeth": {
+        "bone": 0,
+        "jaw": 0,
+        "knee": 0,
+        "arm": 0,
+        "ankle": 0,
+        "elbow": 0,
+        "muscle": 0,
+        "neck": 0
+    },
+    "self": {
+        "confidence": 0,
+        "attitude": 0
+    },
+    "save": {
+        "collect": 0,
+        "protect": 0,
+        "spend": 0,
+        "defend": 0,
+        "keep": 0
+    },
+    "foolish": {
+        "dumb": 0,
+        "childish": 0,
+        "stupid": 0,
+        "dense": 0,
+        "clever": 0,
+        "intelligent": 0,
+        "smart": 0,
+        "rare": 0,
+        "huge": 0
+    },
+    "oil": {
+        "mink": 0,
+        "fur": 0,
+        "woman": 0,
+        "gun": 0,
+        "wife": 0,
+        "man": 0
+    },
+    "easy": {
+        "simple": 0,
+        "flexible": 0,
+        "big": 0,
+        "hard": 0,
+        "difficult": 0,
+        "tough": 0,
+        "elastic": 0
+    },
+    "owe": {
+        "lend": 0,
+        "enter": 0,
+        "give": 0,
+        "go": 0,
+        "leave": 0,
+        "allow": 0,
+        "put": 0,
+        "borrow": 0
+    },
+    "author": {
+        "creator": 0,
+        "reader": 0,
+        "maker": 0
+    },
+    "eye": {
+        "brow": 0,
+        "tear": 0
+    },
+    "topic": {
+        "story": 0,
+        "book": 0,
+        "song": 0,
+        "literature": 0,
+        "text": 0,
+        "article": 0,
+        "bible": 0,
+        "information": 0
+    },
+    "evening": {
+        "dusk": 0,
+        "sunset": 0,
+        "sunrise": 0
+    },
+    "make": {
+        "create": 0,
+        "construct": 0,
+        "earn": 0,
+        "become": 0,
+        "destroy": 0,
+        "build": 0,
+        "imagine": 0
+    },
+    "marijuana": {
+        "herb": 0
+    },
+    "sheriff": {
+        "cop": 0
+    },
+    "rough": {
+        "frigid": 0,
+        "fragile": 0
+    },
+    "awful": {
+        "bad": 0,
+        "great": 0,
+        "terrible": 0,
+        "immoral": 0,
+        "guilty": 0,
+        "terrific": 0,
+        "wonderful": 0
+    },
+    "bone": {
+        "jaw": 0,
+        "knee": 0,
+        "teeth": 0,
+        "arm": 0,
+        "ankle": 0,
+        "elbow": 0,
+        "muscle": 0,
+        "neck": 0
+    },
+    "strange": {
+        "bizarre": 0,
+        "odd": 0,
+        "weird": 0,
+        "sly": 0,
+        "normal": 0
+    },
+    "disc": {
+        "computer": 0
+    },
+    "arrow": {
+        "target": 0
+    },
+    "rabbi": {
+        "minister": 0,
+        "teacher": 0,
+        "instructor": 0,
+        "helper": 0,
+        "friend": 0
+    },
+    "hysteria": {
+        "confusion": 0
+    },
+    "equation": {
+        "formula": 0,
+        "log": 0,
+        "timber": 0,
+        "wood": 0,
+        "bath": 0
+    },
+    "couple": {
+        "pair": 0
+    },
+    "container": {
+        "bottle": 0,
+        "wagon": 0,
+        "mouse": 0,
+        "jar": 0,
+        "carriage": 0,
+        "rat": 0,
+        "cat": 0,
+        "management": 0,
+        "deck": 0
+    },
+    "camera": {
+        "lens": 0,
+        "worker": 0,
+        "president": 0,
+        "employer": 0,
+        "mechanic": 0,
+        "politician": 0,
+        "mayor": 0,
+        "pupil": 0,
+        "pollution": 0
+    },
+    "foot": {
+        "hand": 0,
+        "head": 0,
+        "wrist": 0,
+        "thumb": 0,
+        "nail": 0,
+        "shoulder": 0
+    },
+    "communicate": {
+        "pray": 0,
+        "ask": 0,
+        "plead": 0,
+        "beg": 0,
+        "ignore": 0,
+        "please": 0
+    },
+    "curtain": {
+        "rod": 0
+    },
+    "atom": {
+        "molecule": 0,
+        "carbon": 0,
+        "air": 0,
+        "helium": 0
+    },
+    "booth": {
+        "box": 0,
+        "telephone": 0,
+        "elevator": 0,
+        "hat": 0,
+        "cigar": 0,
+        "car": 0
+    },
+    "pot": {
+        "appliance": 0
+    },
+    "swamp": {
+        "lake": 0
+    },
+    "capital": {
+        "money": 0,
+        "salary": 0,
+        "diamond": 0,
+        "pearl": 0,
+        "fee": 0
+    },
+    "ant": {
+        "bee": 0,
+        "insect": 0,
+        "queen": 0
+    },
+    "unhappy": {
+        "mad": 0,
+        "glad": 0,
+        "happy": 0,
+        "terrific": 0,
+        "cheerful": 0,
+        "young": 0
+    },
+    "sentry": {
+        "man": 0,
+        "husband": 0,
+        "father": 0,
+        "warrior": 0,
+        "child": 0,
+        "uncle": 0,
+        "woman": 0,
+        "victor": 0,
+        "wife": 0
+    },
+    "jaw": {
+        "bone": 0,
+        "knee": 0,
+        "teeth": 0,
+        "arm": 0,
+        "ankle": 0,
+        "elbow": 0,
+        "muscle": 0,
+        "neck": 0
+    },
+    "brother": {
+        "boy": 0,
+        "father": 0,
+        "son": 0,
+        "soul": 0,
+        "kid": 0,
+        "child": 0,
+        "soldier": 0,
+        "partner": 0,
+        "condition": 0
+    },
+    "sorrow": {
+        "shame": 0
+    },
+    "awareness": {
+        "attention": 0,
+        "interest": 0
+    },
+    "laden": {
+        "heavy": 0,
+        "big": 0,
+        "large": 0,
+        "broad": 0,
+        "easy": 0,
+        "huge": 0,
+        "flexible": 0
+    },
+    "fiction": {
+        "biography": 0
+    },
+    "aggression": {
+        "hostility": 0
+    },
+    "gauge": {
+        "car": 0,
+        "cab": 0,
+        "carriage": 0,
+        "bicycle": 0,
+        "highway": 0,
+        "factory": 0,
+        "horn": 0,
+        "street": 0,
+        "boat": 0,
+        "elevator": 0
+    }
+}
