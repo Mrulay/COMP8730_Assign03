@@ -1,0 +1,5 @@
+pytrec_eval
+gensim
+scikit-learn
+pandas
+nltk
