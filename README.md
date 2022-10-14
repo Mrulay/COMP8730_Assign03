@@ -1,6 +1,6 @@
 
 # Lexical vs Vector Semantics
-This repository contains the code that investigates the similarities between Lexical and Vector Semantics. This was done as a part of Assignment 03 for COMP8730 Course.
+This repository contains the code that investigates the similarities between Lexical and Vector Semantics. 
 
 ## Overview
 The code for training Word2Vec and TF-iDF models on the Brown Corpus and Reuters Corpus can be found in the ``/code/word2vec`` and  ``code/tfidf`` directories. 
